@@ -1,0 +1,4 @@
+queue_id,name,channel_id,priority_min,routing_strategy
+Q_CRITICAL_INCIDENTS,Critical Incidents & Security,email,P1,INTELLIGENT
+Q_TIER2_PAYMENTS,Payment Processing Escalations,chat,P2,INTELLIGENT
+Q_GENERAL_SUPPORT,Omnichannel General Support,email,P4,INTELLIGENT

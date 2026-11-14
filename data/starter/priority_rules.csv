@@ -1,0 +1,4 @@
+rule_id,rule_name,intent_id,trigger_keyword,enforced_priority,is_safety_critical
+PR-001,Account Compromise Safety Invariant,ACCOUNT_SECURITY,stolen,P1,True
+PR-002,Payment Gateway Hard Down,PAYMENT_FAILURE,production down,P1,True
+PR-003,Standard Billing High,PAYMENT_DUPLICATE,double charge,P2,False

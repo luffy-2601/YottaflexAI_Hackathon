@@ -1,0 +1,27 @@
+[
+  {
+    "skill_id": "PAYMENT_GATEWAY",
+    "name": "Payment Gateway & UPI Protocols",
+    "tier_level": 2
+  },
+  {
+    "skill_id": "SECURITY_FORENSICS",
+    "name": "Account Security & Fraud Triage",
+    "tier_level": 3
+  },
+  {
+    "skill_id": "INFRA_SYSADMIN",
+    "name": "Cloud Infrastructure & Backend Systems",
+    "tier_level": 3
+  },
+  {
+    "skill_id": "BILLING_OPERATIONS",
+    "name": "Invoicing & Subscription Audits",
+    "tier_level": 1
+  },
+  {
+    "skill_id": "CUSTOMER_SUCCESS",
+    "name": "General Inquiries & Account Care",
+    "tier_level": 1
+  }
+]

@@ -1,0 +1,1717 @@
+[
+  {
+    "agent_id": "AGT-000001",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.91
+  },
+  {
+    "agent_id": "AGT-000001",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.86
+  },
+  {
+    "agent_id": "AGT-000001",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.72
+  },
+  {
+    "agent_id": "AGT-000002",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.84
+  },
+  {
+    "agent_id": "AGT-000002",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.72
+  },
+  {
+    "agent_id": "AGT-000002",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.99
+  },
+  {
+    "agent_id": "AGT-000002",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.74
+  },
+  {
+    "agent_id": "AGT-000002",
+    "skill_id": "INFRA_SYSADMIN",
+    "proficiency_level": 0.72
+  },
+  {
+    "agent_id": "AGT-000003",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.91
+  },
+  {
+    "agent_id": "AGT-000003",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.93
+  },
+  {
+    "agent_id": "AGT-000004",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.82
+  },
+  {
+    "agent_id": "AGT-000004",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.87
+  },
+  {
+    "agent_id": "AGT-000004",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.85
+  },
+  {
+    "agent_id": "AGT-000005",
+    "skill_id": "INFRA_SYSADMIN",
+    "proficiency_level": 0.71
+  },
+  {
+    "agent_id": "AGT-000005",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.79
+  },
+  {
+    "agent_id": "AGT-000005",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.7
+  },
+  {
+    "agent_id": "AGT-000006",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.9
+  },
+  {
+    "agent_id": "AGT-000006",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.91
+  },
+  {
+    "agent_id": "AGT-000006",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.79
+  },
+  {
+    "agent_id": "AGT-000006",
+    "skill_id": "INFRA_SYSADMIN",
+    "proficiency_level": 0.96
+  },
+  {
+    "agent_id": "AGT-000007",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.85
+  },
+  {
+    "agent_id": "AGT-000007",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.84
+  },
+  {
+    "agent_id": "AGT-000007",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.89
+  },
+  {
+    "agent_id": "AGT-000008",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.91
+  },
+  {
+    "agent_id": "AGT-000008",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.96
+  },
+  {
+    "agent_id": "AGT-000008",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.74
+  },
+  {
+    "agent_id": "AGT-000009",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.92
+  },
+  {
+    "agent_id": "AGT-000009",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.81
+  },
+  {
+    "agent_id": "AGT-000009",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.86
+  },
+  {
+    "agent_id": "AGT-000009",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.72
+  },
+  {
+    "agent_id": "AGT-000010",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.76
+  },
+  {
+    "agent_id": "AGT-000010",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.92
+  },
+  {
+    "agent_id": "AGT-000010",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.8
+  },
+  {
+    "agent_id": "AGT-000010",
+    "skill_id": "INFRA_SYSADMIN",
+    "proficiency_level": 1.0
+  },
+  {
+    "agent_id": "AGT-000010",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.94
+  },
+  {
+    "agent_id": "AGT-000011",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.72
+  },
+  {
+    "agent_id": "AGT-000011",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.77
+  },
+  {
+    "agent_id": "AGT-000011",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.74
+  },
+  {
+    "agent_id": "AGT-000011",
+    "skill_id": "INFRA_SYSADMIN",
+    "proficiency_level": 0.99
+  },
+  {
+    "agent_id": "AGT-000011",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.77
+  },
+  {
+    "agent_id": "AGT-000012",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.87
+  },
+  {
+    "agent_id": "AGT-000012",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.78
+  },
+  {
+    "agent_id": "AGT-000012",
+    "skill_id": "INFRA_SYSADMIN",
+    "proficiency_level": 0.75
+  },
+  {
+    "agent_id": "AGT-000012",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.78
+  },
+  {
+    "agent_id": "AGT-000012",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.87
+  },
+  {
+    "agent_id": "AGT-000013",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.87
+  },
+  {
+    "agent_id": "AGT-000013",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.79
+  },
+  {
+    "agent_id": "AGT-000013",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.94
+  },
+  {
+    "agent_id": "AGT-000014",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.91
+  },
+  {
+    "agent_id": "AGT-000014",
+    "skill_id": "INFRA_SYSADMIN",
+    "proficiency_level": 0.74
+  },
+  {
+    "agent_id": "AGT-000014",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.88
+  },
+  {
+    "agent_id": "AGT-000014",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.78
+  },
+  {
+    "agent_id": "AGT-000015",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.97
+  },
+  {
+    "agent_id": "AGT-000015",
+    "skill_id": "INFRA_SYSADMIN",
+    "proficiency_level": 0.91
+  },
+  {
+    "agent_id": "AGT-000015",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.78
+  },
+  {
+    "agent_id": "AGT-000015",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.79
+  },
+  {
+    "agent_id": "AGT-000016",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.94
+  },
+  {
+    "agent_id": "AGT-000016",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.7
+  },
+  {
+    "agent_id": "AGT-000016",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.73
+  },
+  {
+    "agent_id": "AGT-000017",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.9
+  },
+  {
+    "agent_id": "AGT-000017",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.81
+  },
+  {
+    "agent_id": "AGT-000017",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.9
+  },
+  {
+    "agent_id": "AGT-000017",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.91
+  },
+  {
+    "agent_id": "AGT-000017",
+    "skill_id": "INFRA_SYSADMIN",
+    "proficiency_level": 0.71
+  },
+  {
+    "agent_id": "AGT-000018",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.84
+  },
+  {
+    "agent_id": "AGT-000018",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.82
+  },
+  {
+    "agent_id": "AGT-000019",
+    "skill_id": "INFRA_SYSADMIN",
+    "proficiency_level": 0.94
+  },
+  {
+    "agent_id": "AGT-000019",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.83
+  },
+  {
+    "agent_id": "AGT-000019",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 1.0
+  },
+  {
+    "agent_id": "AGT-000020",
+    "skill_id": "INFRA_SYSADMIN",
+    "proficiency_level": 0.74
+  },
+  {
+    "agent_id": "AGT-000020",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.97
+  },
+  {
+    "agent_id": "AGT-000021",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.92
+  },
+  {
+    "agent_id": "AGT-000021",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.92
+  },
+  {
+    "agent_id": "AGT-000021",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.73
+  },
+  {
+    "agent_id": "AGT-000021",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.97
+  },
+  {
+    "agent_id": "AGT-000021",
+    "skill_id": "INFRA_SYSADMIN",
+    "proficiency_level": 0.72
+  },
+  {
+    "agent_id": "AGT-000022",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.96
+  },
+  {
+    "agent_id": "AGT-000022",
+    "skill_id": "INFRA_SYSADMIN",
+    "proficiency_level": 0.73
+  },
+  {
+    "agent_id": "AGT-000023",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.7
+  },
+  {
+    "agent_id": "AGT-000023",
+    "skill_id": "INFRA_SYSADMIN",
+    "proficiency_level": 0.92
+  },
+  {
+    "agent_id": "AGT-000023",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.83
+  },
+  {
+    "agent_id": "AGT-000024",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.78
+  },
+  {
+    "agent_id": "AGT-000024",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.86
+  },
+  {
+    "agent_id": "AGT-000025",
+    "skill_id": "INFRA_SYSADMIN",
+    "proficiency_level": 0.98
+  },
+  {
+    "agent_id": "AGT-000025",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.92
+  },
+  {
+    "agent_id": "AGT-000026",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.91
+  },
+  {
+    "agent_id": "AGT-000026",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.8
+  },
+  {
+    "agent_id": "AGT-000026",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.88
+  },
+  {
+    "agent_id": "AGT-000026",
+    "skill_id": "INFRA_SYSADMIN",
+    "proficiency_level": 0.86
+  },
+  {
+    "agent_id": "AGT-000026",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.78
+  },
+  {
+    "agent_id": "AGT-000027",
+    "skill_id": "INFRA_SYSADMIN",
+    "proficiency_level": 0.78
+  },
+  {
+    "agent_id": "AGT-000027",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.99
+  },
+  {
+    "agent_id": "AGT-000027",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 1.0
+  },
+  {
+    "agent_id": "AGT-000027",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.75
+  },
+  {
+    "agent_id": "AGT-000028",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.98
+  },
+  {
+    "agent_id": "AGT-000028",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.77
+  },
+  {
+    "agent_id": "AGT-000028",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.75
+  },
+  {
+    "agent_id": "AGT-000029",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.76
+  },
+  {
+    "agent_id": "AGT-000029",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.95
+  },
+  {
+    "agent_id": "AGT-000030",
+    "skill_id": "INFRA_SYSADMIN",
+    "proficiency_level": 0.86
+  },
+  {
+    "agent_id": "AGT-000030",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.86
+  },
+  {
+    "agent_id": "AGT-000030",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.76
+  },
+  {
+    "agent_id": "AGT-000030",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.91
+  },
+  {
+    "agent_id": "AGT-000031",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.74
+  },
+  {
+    "agent_id": "AGT-000031",
+    "skill_id": "INFRA_SYSADMIN",
+    "proficiency_level": 0.98
+  },
+  {
+    "agent_id": "AGT-000031",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.93
+  },
+  {
+    "agent_id": "AGT-000032",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.86
+  },
+  {
+    "agent_id": "AGT-000032",
+    "skill_id": "INFRA_SYSADMIN",
+    "proficiency_level": 0.72
+  },
+  {
+    "agent_id": "AGT-000032",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.89
+  },
+  {
+    "agent_id": "AGT-000033",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.72
+  },
+  {
+    "agent_id": "AGT-000033",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.79
+  },
+  {
+    "agent_id": "AGT-000033",
+    "skill_id": "INFRA_SYSADMIN",
+    "proficiency_level": 0.96
+  },
+  {
+    "agent_id": "AGT-000034",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.98
+  },
+  {
+    "agent_id": "AGT-000034",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.78
+  },
+  {
+    "agent_id": "AGT-000035",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.92
+  },
+  {
+    "agent_id": "AGT-000035",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.97
+  },
+  {
+    "agent_id": "AGT-000036",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.8
+  },
+  {
+    "agent_id": "AGT-000036",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.75
+  },
+  {
+    "agent_id": "AGT-000037",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.96
+  },
+  {
+    "agent_id": "AGT-000037",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.77
+  },
+  {
+    "agent_id": "AGT-000038",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.73
+  },
+  {
+    "agent_id": "AGT-000038",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 1.0
+  },
+  {
+    "agent_id": "AGT-000038",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.7
+  },
+  {
+    "agent_id": "AGT-000039",
+    "skill_id": "INFRA_SYSADMIN",
+    "proficiency_level": 0.73
+  },
+  {
+    "agent_id": "AGT-000039",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.95
+  },
+  {
+    "agent_id": "AGT-000040",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.95
+  },
+  {
+    "agent_id": "AGT-000040",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.83
+  },
+  {
+    "agent_id": "AGT-000040",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.75
+  },
+  {
+    "agent_id": "AGT-000041",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.7
+  },
+  {
+    "agent_id": "AGT-000041",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.99
+  },
+  {
+    "agent_id": "AGT-000041",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.92
+  },
+  {
+    "agent_id": "AGT-000041",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.75
+  },
+  {
+    "agent_id": "AGT-000041",
+    "skill_id": "INFRA_SYSADMIN",
+    "proficiency_level": 0.89
+  },
+  {
+    "agent_id": "AGT-000042",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.93
+  },
+  {
+    "agent_id": "AGT-000042",
+    "skill_id": "INFRA_SYSADMIN",
+    "proficiency_level": 0.76
+  },
+  {
+    "agent_id": "AGT-000042",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.87
+  },
+  {
+    "agent_id": "AGT-000042",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.84
+  },
+  {
+    "agent_id": "AGT-000043",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.91
+  },
+  {
+    "agent_id": "AGT-000043",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.96
+  },
+  {
+    "agent_id": "AGT-000043",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.85
+  },
+  {
+    "agent_id": "AGT-000044",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.75
+  },
+  {
+    "agent_id": "AGT-000044",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.97
+  },
+  {
+    "agent_id": "AGT-000044",
+    "skill_id": "INFRA_SYSADMIN",
+    "proficiency_level": 0.82
+  },
+  {
+    "agent_id": "AGT-000044",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.71
+  },
+  {
+    "agent_id": "AGT-000044",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 1.0
+  },
+  {
+    "agent_id": "AGT-000045",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.7
+  },
+  {
+    "agent_id": "AGT-000045",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.93
+  },
+  {
+    "agent_id": "AGT-000045",
+    "skill_id": "INFRA_SYSADMIN",
+    "proficiency_level": 0.98
+  },
+  {
+    "agent_id": "AGT-000046",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.9
+  },
+  {
+    "agent_id": "AGT-000046",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.7
+  },
+  {
+    "agent_id": "AGT-000046",
+    "skill_id": "INFRA_SYSADMIN",
+    "proficiency_level": 0.94
+  },
+  {
+    "agent_id": "AGT-000046",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.86
+  },
+  {
+    "agent_id": "AGT-000046",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.88
+  },
+  {
+    "agent_id": "AGT-000047",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.8
+  },
+  {
+    "agent_id": "AGT-000047",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.89
+  },
+  {
+    "agent_id": "AGT-000048",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.99
+  },
+  {
+    "agent_id": "AGT-000048",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.77
+  },
+  {
+    "agent_id": "AGT-000048",
+    "skill_id": "INFRA_SYSADMIN",
+    "proficiency_level": 0.99
+  },
+  {
+    "agent_id": "AGT-000049",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.72
+  },
+  {
+    "agent_id": "AGT-000049",
+    "skill_id": "INFRA_SYSADMIN",
+    "proficiency_level": 0.76
+  },
+  {
+    "agent_id": "AGT-000049",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 1.0
+  },
+  {
+    "agent_id": "AGT-000049",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.77
+  },
+  {
+    "agent_id": "AGT-000049",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.98
+  },
+  {
+    "agent_id": "AGT-000050",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.71
+  },
+  {
+    "agent_id": "AGT-000050",
+    "skill_id": "INFRA_SYSADMIN",
+    "proficiency_level": 0.92
+  },
+  {
+    "agent_id": "AGT-000051",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.83
+  },
+  {
+    "agent_id": "AGT-000051",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.91
+  },
+  {
+    "agent_id": "AGT-000051",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.84
+  },
+  {
+    "agent_id": "AGT-000051",
+    "skill_id": "INFRA_SYSADMIN",
+    "proficiency_level": 0.91
+  },
+  {
+    "agent_id": "AGT-000051",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.78
+  },
+  {
+    "agent_id": "AGT-000052",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.85
+  },
+  {
+    "agent_id": "AGT-000052",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.94
+  },
+  {
+    "agent_id": "AGT-000052",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.89
+  },
+  {
+    "agent_id": "AGT-000053",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.95
+  },
+  {
+    "agent_id": "AGT-000053",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.76
+  },
+  {
+    "agent_id": "AGT-000054",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.98
+  },
+  {
+    "agent_id": "AGT-000054",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.99
+  },
+  {
+    "agent_id": "AGT-000055",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.77
+  },
+  {
+    "agent_id": "AGT-000055",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.96
+  },
+  {
+    "agent_id": "AGT-000056",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.99
+  },
+  {
+    "agent_id": "AGT-000056",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.71
+  },
+  {
+    "agent_id": "AGT-000056",
+    "skill_id": "INFRA_SYSADMIN",
+    "proficiency_level": 0.97
+  },
+  {
+    "agent_id": "AGT-000057",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.76
+  },
+  {
+    "agent_id": "AGT-000057",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.84
+  },
+  {
+    "agent_id": "AGT-000057",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.9
+  },
+  {
+    "agent_id": "AGT-000057",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.86
+  },
+  {
+    "agent_id": "AGT-000058",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.97
+  },
+  {
+    "agent_id": "AGT-000058",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.77
+  },
+  {
+    "agent_id": "AGT-000058",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.94
+  },
+  {
+    "agent_id": "AGT-000059",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.87
+  },
+  {
+    "agent_id": "AGT-000059",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.75
+  },
+  {
+    "agent_id": "AGT-000059",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.93
+  },
+  {
+    "agent_id": "AGT-000059",
+    "skill_id": "INFRA_SYSADMIN",
+    "proficiency_level": 0.8
+  },
+  {
+    "agent_id": "AGT-000059",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.87
+  },
+  {
+    "agent_id": "AGT-000060",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.91
+  },
+  {
+    "agent_id": "AGT-000060",
+    "skill_id": "INFRA_SYSADMIN",
+    "proficiency_level": 0.84
+  },
+  {
+    "agent_id": "AGT-000060",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.94
+  },
+  {
+    "agent_id": "AGT-000060",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.75
+  },
+  {
+    "agent_id": "AGT-000060",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.75
+  },
+  {
+    "agent_id": "AGT-000061",
+    "skill_id": "INFRA_SYSADMIN",
+    "proficiency_level": 0.84
+  },
+  {
+    "agent_id": "AGT-000061",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.82
+  },
+  {
+    "agent_id": "AGT-000061",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.93
+  },
+  {
+    "agent_id": "AGT-000061",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.74
+  },
+  {
+    "agent_id": "AGT-000061",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.89
+  },
+  {
+    "agent_id": "AGT-000062",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.76
+  },
+  {
+    "agent_id": "AGT-000062",
+    "skill_id": "INFRA_SYSADMIN",
+    "proficiency_level": 0.93
+  },
+  {
+    "agent_id": "AGT-000062",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.76
+  },
+  {
+    "agent_id": "AGT-000062",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 1.0
+  },
+  {
+    "agent_id": "AGT-000063",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.82
+  },
+  {
+    "agent_id": "AGT-000063",
+    "skill_id": "INFRA_SYSADMIN",
+    "proficiency_level": 0.72
+  },
+  {
+    "agent_id": "AGT-000063",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.77
+  },
+  {
+    "agent_id": "AGT-000063",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.89
+  },
+  {
+    "agent_id": "AGT-000063",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.88
+  },
+  {
+    "agent_id": "AGT-000064",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.71
+  },
+  {
+    "agent_id": "AGT-000064",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.76
+  },
+  {
+    "agent_id": "AGT-000064",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.99
+  },
+  {
+    "agent_id": "AGT-000065",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.77
+  },
+  {
+    "agent_id": "AGT-000065",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.8
+  },
+  {
+    "agent_id": "AGT-000065",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.96
+  },
+  {
+    "agent_id": "AGT-000065",
+    "skill_id": "INFRA_SYSADMIN",
+    "proficiency_level": 0.88
+  },
+  {
+    "agent_id": "AGT-000065",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.75
+  },
+  {
+    "agent_id": "AGT-000066",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.86
+  },
+  {
+    "agent_id": "AGT-000066",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.74
+  },
+  {
+    "agent_id": "AGT-000066",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.92
+  },
+  {
+    "agent_id": "AGT-000066",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.83
+  },
+  {
+    "agent_id": "AGT-000066",
+    "skill_id": "INFRA_SYSADMIN",
+    "proficiency_level": 0.73
+  },
+  {
+    "agent_id": "AGT-000067",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.99
+  },
+  {
+    "agent_id": "AGT-000067",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.82
+  },
+  {
+    "agent_id": "AGT-000068",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.72
+  },
+  {
+    "agent_id": "AGT-000068",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.98
+  },
+  {
+    "agent_id": "AGT-000068",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 1.0
+  },
+  {
+    "agent_id": "AGT-000068",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.86
+  },
+  {
+    "agent_id": "AGT-000069",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.83
+  },
+  {
+    "agent_id": "AGT-000069",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.95
+  },
+  {
+    "agent_id": "AGT-000070",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.77
+  },
+  {
+    "agent_id": "AGT-000070",
+    "skill_id": "INFRA_SYSADMIN",
+    "proficiency_level": 0.86
+  },
+  {
+    "agent_id": "AGT-000070",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.93
+  },
+  {
+    "agent_id": "AGT-000070",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.94
+  },
+  {
+    "agent_id": "AGT-000071",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.94
+  },
+  {
+    "agent_id": "AGT-000071",
+    "skill_id": "INFRA_SYSADMIN",
+    "proficiency_level": 0.94
+  },
+  {
+    "agent_id": "AGT-000071",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.92
+  },
+  {
+    "agent_id": "AGT-000072",
+    "skill_id": "INFRA_SYSADMIN",
+    "proficiency_level": 0.85
+  },
+  {
+    "agent_id": "AGT-000072",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.96
+  },
+  {
+    "agent_id": "AGT-000073",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.97
+  },
+  {
+    "agent_id": "AGT-000073",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.92
+  },
+  {
+    "agent_id": "AGT-000073",
+    "skill_id": "INFRA_SYSADMIN",
+    "proficiency_level": 0.9
+  },
+  {
+    "agent_id": "AGT-000073",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.81
+  },
+  {
+    "agent_id": "AGT-000074",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.86
+  },
+  {
+    "agent_id": "AGT-000074",
+    "skill_id": "INFRA_SYSADMIN",
+    "proficiency_level": 0.88
+  },
+  {
+    "agent_id": "AGT-000074",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.82
+  },
+  {
+    "agent_id": "AGT-000075",
+    "skill_id": "INFRA_SYSADMIN",
+    "proficiency_level": 0.74
+  },
+  {
+    "agent_id": "AGT-000075",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.92
+  },
+  {
+    "agent_id": "AGT-000075",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.88
+  },
+  {
+    "agent_id": "AGT-000075",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.83
+  },
+  {
+    "agent_id": "AGT-000076",
+    "skill_id": "INFRA_SYSADMIN",
+    "proficiency_level": 0.82
+  },
+  {
+    "agent_id": "AGT-000076",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.94
+  },
+  {
+    "agent_id": "AGT-000077",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.99
+  },
+  {
+    "agent_id": "AGT-000077",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.8
+  },
+  {
+    "agent_id": "AGT-000078",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.85
+  },
+  {
+    "agent_id": "AGT-000078",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.76
+  },
+  {
+    "agent_id": "AGT-000078",
+    "skill_id": "INFRA_SYSADMIN",
+    "proficiency_level": 0.82
+  },
+  {
+    "agent_id": "AGT-000078",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.78
+  },
+  {
+    "agent_id": "AGT-000078",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.87
+  },
+  {
+    "agent_id": "AGT-000079",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.85
+  },
+  {
+    "agent_id": "AGT-000079",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.92
+  },
+  {
+    "agent_id": "AGT-000080",
+    "skill_id": "INFRA_SYSADMIN",
+    "proficiency_level": 0.82
+  },
+  {
+    "agent_id": "AGT-000080",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.74
+  },
+  {
+    "agent_id": "AGT-000080",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.88
+  },
+  {
+    "agent_id": "AGT-000080",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.94
+  },
+  {
+    "agent_id": "AGT-000080",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.99
+  },
+  {
+    "agent_id": "AGT-000081",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.96
+  },
+  {
+    "agent_id": "AGT-000081",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.72
+  },
+  {
+    "agent_id": "AGT-000081",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.91
+  },
+  {
+    "agent_id": "AGT-000081",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.95
+  },
+  {
+    "agent_id": "AGT-000081",
+    "skill_id": "INFRA_SYSADMIN",
+    "proficiency_level": 0.96
+  },
+  {
+    "agent_id": "AGT-000082",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 1.0
+  },
+  {
+    "agent_id": "AGT-000082",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.75
+  },
+  {
+    "agent_id": "AGT-000082",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.81
+  },
+  {
+    "agent_id": "AGT-000082",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.87
+  },
+  {
+    "agent_id": "AGT-000083",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.99
+  },
+  {
+    "agent_id": "AGT-000083",
+    "skill_id": "INFRA_SYSADMIN",
+    "proficiency_level": 0.93
+  },
+  {
+    "agent_id": "AGT-000083",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.87
+  },
+  {
+    "agent_id": "AGT-000084",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.8
+  },
+  {
+    "agent_id": "AGT-000084",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.75
+  },
+  {
+    "agent_id": "AGT-000084",
+    "skill_id": "INFRA_SYSADMIN",
+    "proficiency_level": 0.81
+  },
+  {
+    "agent_id": "AGT-000084",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.83
+  },
+  {
+    "agent_id": "AGT-000085",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.71
+  },
+  {
+    "agent_id": "AGT-000085",
+    "skill_id": "INFRA_SYSADMIN",
+    "proficiency_level": 0.96
+  },
+  {
+    "agent_id": "AGT-000085",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.73
+  },
+  {
+    "agent_id": "AGT-000085",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.87
+  },
+  {
+    "agent_id": "AGT-000086",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 1.0
+  },
+  {
+    "agent_id": "AGT-000086",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.71
+  },
+  {
+    "agent_id": "AGT-000086",
+    "skill_id": "INFRA_SYSADMIN",
+    "proficiency_level": 0.92
+  },
+  {
+    "agent_id": "AGT-000086",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.9
+  },
+  {
+    "agent_id": "AGT-000087",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.92
+  },
+  {
+    "agent_id": "AGT-000087",
+    "skill_id": "INFRA_SYSADMIN",
+    "proficiency_level": 0.79
+  },
+  {
+    "agent_id": "AGT-000087",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.71
+  },
+  {
+    "agent_id": "AGT-000087",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.98
+  },
+  {
+    "agent_id": "AGT-000087",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.9
+  },
+  {
+    "agent_id": "AGT-000088",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.89
+  },
+  {
+    "agent_id": "AGT-000088",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.87
+  },
+  {
+    "agent_id": "AGT-000089",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.86
+  },
+  {
+    "agent_id": "AGT-000089",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.74
+  },
+  {
+    "agent_id": "AGT-000089",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.89
+  },
+  {
+    "agent_id": "AGT-000089",
+    "skill_id": "INFRA_SYSADMIN",
+    "proficiency_level": 0.82
+  },
+  {
+    "agent_id": "AGT-000089",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.87
+  },
+  {
+    "agent_id": "AGT-000090",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.96
+  },
+  {
+    "agent_id": "AGT-000090",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.7
+  },
+  {
+    "agent_id": "AGT-000090",
+    "skill_id": "INFRA_SYSADMIN",
+    "proficiency_level": 0.91
+  },
+  {
+    "agent_id": "AGT-000090",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.96
+  },
+  {
+    "agent_id": "AGT-000090",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.8
+  },
+  {
+    "agent_id": "AGT-000091",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.8
+  },
+  {
+    "agent_id": "AGT-000091",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.74
+  },
+  {
+    "agent_id": "AGT-000091",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.78
+  },
+  {
+    "agent_id": "AGT-000092",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.95
+  },
+  {
+    "agent_id": "AGT-000092",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.79
+  },
+  {
+    "agent_id": "AGT-000092",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.99
+  },
+  {
+    "agent_id": "AGT-000093",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.94
+  },
+  {
+    "agent_id": "AGT-000093",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.8
+  },
+  {
+    "agent_id": "AGT-000093",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.98
+  },
+  {
+    "agent_id": "AGT-000093",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.7
+  },
+  {
+    "agent_id": "AGT-000094",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.8
+  },
+  {
+    "agent_id": "AGT-000094",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.77
+  },
+  {
+    "agent_id": "AGT-000095",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.95
+  },
+  {
+    "agent_id": "AGT-000095",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.8
+  },
+  {
+    "agent_id": "AGT-000096",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.8
+  },
+  {
+    "agent_id": "AGT-000096",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.99
+  },
+  {
+    "agent_id": "AGT-000097",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.82
+  },
+  {
+    "agent_id": "AGT-000097",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.95
+  },
+  {
+    "agent_id": "AGT-000097",
+    "skill_id": "INFRA_SYSADMIN",
+    "proficiency_level": 0.89
+  },
+  {
+    "agent_id": "AGT-000097",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.74
+  },
+  {
+    "agent_id": "AGT-000097",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.77
+  },
+  {
+    "agent_id": "AGT-000098",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.91
+  },
+  {
+    "agent_id": "AGT-000098",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.71
+  },
+  {
+    "agent_id": "AGT-000099",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.92
+  },
+  {
+    "agent_id": "AGT-000099",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.8
+  },
+  {
+    "agent_id": "AGT-000099",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.92
+  },
+  {
+    "agent_id": "AGT-000099",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.75
+  },
+  {
+    "agent_id": "AGT-000100",
+    "skill_id": "BILLING_OPERATIONS",
+    "proficiency_level": 0.74
+  },
+  {
+    "agent_id": "AGT-000100",
+    "skill_id": "INFRA_SYSADMIN",
+    "proficiency_level": 0.83
+  },
+  {
+    "agent_id": "AGT-000100",
+    "skill_id": "PAYMENT_GATEWAY",
+    "proficiency_level": 0.84
+  },
+  {
+    "agent_id": "AGT-000100",
+    "skill_id": "SECURITY_FORENSICS",
+    "proficiency_level": 0.94
+  },
+  {
+    "agent_id": "AGT-000100",
+    "skill_id": "CUSTOMER_SUCCESS",
+    "proficiency_level": 0.77
+  }
+]

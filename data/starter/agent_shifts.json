@@ -1,0 +1,4802 @@
+[
+  {
+    "shift_id": "SHF-AGT-000001-0",
+    "agent_id": "AGT-000001",
+    "day_of_week": 0,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000001-1",
+    "agent_id": "AGT-000001",
+    "day_of_week": 1,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000001-2",
+    "agent_id": "AGT-000001",
+    "day_of_week": 2,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000001-3",
+    "agent_id": "AGT-000001",
+    "day_of_week": 3,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000001-4",
+    "agent_id": "AGT-000001",
+    "day_of_week": 4,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000002-0",
+    "agent_id": "AGT-000002",
+    "day_of_week": 0,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000002-1",
+    "agent_id": "AGT-000002",
+    "day_of_week": 1,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000002-2",
+    "agent_id": "AGT-000002",
+    "day_of_week": 2,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000002-3",
+    "agent_id": "AGT-000002",
+    "day_of_week": 3,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000002-4",
+    "agent_id": "AGT-000002",
+    "day_of_week": 4,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000002-5",
+    "agent_id": "AGT-000002",
+    "day_of_week": 5,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000002-6",
+    "agent_id": "AGT-000002",
+    "day_of_week": 6,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000003-0",
+    "agent_id": "AGT-000003",
+    "day_of_week": 0,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000003-1",
+    "agent_id": "AGT-000003",
+    "day_of_week": 1,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000003-2",
+    "agent_id": "AGT-000003",
+    "day_of_week": 2,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000003-3",
+    "agent_id": "AGT-000003",
+    "day_of_week": 3,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000003-4",
+    "agent_id": "AGT-000003",
+    "day_of_week": 4,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000004-0",
+    "agent_id": "AGT-000004",
+    "day_of_week": 0,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000004-1",
+    "agent_id": "AGT-000004",
+    "day_of_week": 1,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000004-2",
+    "agent_id": "AGT-000004",
+    "day_of_week": 2,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000004-3",
+    "agent_id": "AGT-000004",
+    "day_of_week": 3,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000004-4",
+    "agent_id": "AGT-000004",
+    "day_of_week": 4,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000004-5",
+    "agent_id": "AGT-000004",
+    "day_of_week": 5,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000004-6",
+    "agent_id": "AGT-000004",
+    "day_of_week": 6,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000005-0",
+    "agent_id": "AGT-000005",
+    "day_of_week": 0,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000005-1",
+    "agent_id": "AGT-000005",
+    "day_of_week": 1,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000005-2",
+    "agent_id": "AGT-000005",
+    "day_of_week": 2,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000005-3",
+    "agent_id": "AGT-000005",
+    "day_of_week": 3,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000005-4",
+    "agent_id": "AGT-000005",
+    "day_of_week": 4,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000006-0",
+    "agent_id": "AGT-000006",
+    "day_of_week": 0,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000006-1",
+    "agent_id": "AGT-000006",
+    "day_of_week": 1,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000006-2",
+    "agent_id": "AGT-000006",
+    "day_of_week": 2,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000006-3",
+    "agent_id": "AGT-000006",
+    "day_of_week": 3,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000006-4",
+    "agent_id": "AGT-000006",
+    "day_of_week": 4,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000006-5",
+    "agent_id": "AGT-000006",
+    "day_of_week": 5,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000006-6",
+    "agent_id": "AGT-000006",
+    "day_of_week": 6,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000007-0",
+    "agent_id": "AGT-000007",
+    "day_of_week": 0,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000007-1",
+    "agent_id": "AGT-000007",
+    "day_of_week": 1,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000007-2",
+    "agent_id": "AGT-000007",
+    "day_of_week": 2,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000007-3",
+    "agent_id": "AGT-000007",
+    "day_of_week": 3,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000007-4",
+    "agent_id": "AGT-000007",
+    "day_of_week": 4,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000008-0",
+    "agent_id": "AGT-000008",
+    "day_of_week": 0,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000008-1",
+    "agent_id": "AGT-000008",
+    "day_of_week": 1,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000008-2",
+    "agent_id": "AGT-000008",
+    "day_of_week": 2,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000008-3",
+    "agent_id": "AGT-000008",
+    "day_of_week": 3,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000008-4",
+    "agent_id": "AGT-000008",
+    "day_of_week": 4,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000008-5",
+    "agent_id": "AGT-000008",
+    "day_of_week": 5,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000008-6",
+    "agent_id": "AGT-000008",
+    "day_of_week": 6,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000009-0",
+    "agent_id": "AGT-000009",
+    "day_of_week": 0,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000009-1",
+    "agent_id": "AGT-000009",
+    "day_of_week": 1,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000009-2",
+    "agent_id": "AGT-000009",
+    "day_of_week": 2,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000009-3",
+    "agent_id": "AGT-000009",
+    "day_of_week": 3,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000009-4",
+    "agent_id": "AGT-000009",
+    "day_of_week": 4,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000010-0",
+    "agent_id": "AGT-000010",
+    "day_of_week": 0,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000010-1",
+    "agent_id": "AGT-000010",
+    "day_of_week": 1,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000010-2",
+    "agent_id": "AGT-000010",
+    "day_of_week": 2,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000010-3",
+    "agent_id": "AGT-000010",
+    "day_of_week": 3,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000010-4",
+    "agent_id": "AGT-000010",
+    "day_of_week": 4,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000010-5",
+    "agent_id": "AGT-000010",
+    "day_of_week": 5,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000010-6",
+    "agent_id": "AGT-000010",
+    "day_of_week": 6,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000011-0",
+    "agent_id": "AGT-000011",
+    "day_of_week": 0,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000011-1",
+    "agent_id": "AGT-000011",
+    "day_of_week": 1,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000011-2",
+    "agent_id": "AGT-000011",
+    "day_of_week": 2,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000011-3",
+    "agent_id": "AGT-000011",
+    "day_of_week": 3,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000011-4",
+    "agent_id": "AGT-000011",
+    "day_of_week": 4,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000012-0",
+    "agent_id": "AGT-000012",
+    "day_of_week": 0,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000012-1",
+    "agent_id": "AGT-000012",
+    "day_of_week": 1,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000012-2",
+    "agent_id": "AGT-000012",
+    "day_of_week": 2,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000012-3",
+    "agent_id": "AGT-000012",
+    "day_of_week": 3,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000012-4",
+    "agent_id": "AGT-000012",
+    "day_of_week": 4,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000012-5",
+    "agent_id": "AGT-000012",
+    "day_of_week": 5,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000012-6",
+    "agent_id": "AGT-000012",
+    "day_of_week": 6,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000013-0",
+    "agent_id": "AGT-000013",
+    "day_of_week": 0,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000013-1",
+    "agent_id": "AGT-000013",
+    "day_of_week": 1,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000013-2",
+    "agent_id": "AGT-000013",
+    "day_of_week": 2,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000013-3",
+    "agent_id": "AGT-000013",
+    "day_of_week": 3,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000013-4",
+    "agent_id": "AGT-000013",
+    "day_of_week": 4,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000014-0",
+    "agent_id": "AGT-000014",
+    "day_of_week": 0,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000014-1",
+    "agent_id": "AGT-000014",
+    "day_of_week": 1,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000014-2",
+    "agent_id": "AGT-000014",
+    "day_of_week": 2,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000014-3",
+    "agent_id": "AGT-000014",
+    "day_of_week": 3,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000014-4",
+    "agent_id": "AGT-000014",
+    "day_of_week": 4,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000014-5",
+    "agent_id": "AGT-000014",
+    "day_of_week": 5,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000014-6",
+    "agent_id": "AGT-000014",
+    "day_of_week": 6,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000015-0",
+    "agent_id": "AGT-000015",
+    "day_of_week": 0,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000015-1",
+    "agent_id": "AGT-000015",
+    "day_of_week": 1,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000015-2",
+    "agent_id": "AGT-000015",
+    "day_of_week": 2,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000015-3",
+    "agent_id": "AGT-000015",
+    "day_of_week": 3,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000015-4",
+    "agent_id": "AGT-000015",
+    "day_of_week": 4,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000016-0",
+    "agent_id": "AGT-000016",
+    "day_of_week": 0,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000016-1",
+    "agent_id": "AGT-000016",
+    "day_of_week": 1,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000016-2",
+    "agent_id": "AGT-000016",
+    "day_of_week": 2,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000016-3",
+    "agent_id": "AGT-000016",
+    "day_of_week": 3,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000016-4",
+    "agent_id": "AGT-000016",
+    "day_of_week": 4,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000016-5",
+    "agent_id": "AGT-000016",
+    "day_of_week": 5,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000016-6",
+    "agent_id": "AGT-000016",
+    "day_of_week": 6,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000017-0",
+    "agent_id": "AGT-000017",
+    "day_of_week": 0,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000017-1",
+    "agent_id": "AGT-000017",
+    "day_of_week": 1,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000017-2",
+    "agent_id": "AGT-000017",
+    "day_of_week": 2,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000017-3",
+    "agent_id": "AGT-000017",
+    "day_of_week": 3,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000017-4",
+    "agent_id": "AGT-000017",
+    "day_of_week": 4,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000018-0",
+    "agent_id": "AGT-000018",
+    "day_of_week": 0,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000018-1",
+    "agent_id": "AGT-000018",
+    "day_of_week": 1,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000018-2",
+    "agent_id": "AGT-000018",
+    "day_of_week": 2,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000018-3",
+    "agent_id": "AGT-000018",
+    "day_of_week": 3,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000018-4",
+    "agent_id": "AGT-000018",
+    "day_of_week": 4,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000018-5",
+    "agent_id": "AGT-000018",
+    "day_of_week": 5,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000018-6",
+    "agent_id": "AGT-000018",
+    "day_of_week": 6,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000019-0",
+    "agent_id": "AGT-000019",
+    "day_of_week": 0,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000019-1",
+    "agent_id": "AGT-000019",
+    "day_of_week": 1,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000019-2",
+    "agent_id": "AGT-000019",
+    "day_of_week": 2,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000019-3",
+    "agent_id": "AGT-000019",
+    "day_of_week": 3,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000019-4",
+    "agent_id": "AGT-000019",
+    "day_of_week": 4,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000020-0",
+    "agent_id": "AGT-000020",
+    "day_of_week": 0,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000020-1",
+    "agent_id": "AGT-000020",
+    "day_of_week": 1,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000020-2",
+    "agent_id": "AGT-000020",
+    "day_of_week": 2,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000020-3",
+    "agent_id": "AGT-000020",
+    "day_of_week": 3,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000020-4",
+    "agent_id": "AGT-000020",
+    "day_of_week": 4,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000020-5",
+    "agent_id": "AGT-000020",
+    "day_of_week": 5,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000020-6",
+    "agent_id": "AGT-000020",
+    "day_of_week": 6,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000021-0",
+    "agent_id": "AGT-000021",
+    "day_of_week": 0,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000021-1",
+    "agent_id": "AGT-000021",
+    "day_of_week": 1,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000021-2",
+    "agent_id": "AGT-000021",
+    "day_of_week": 2,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000021-3",
+    "agent_id": "AGT-000021",
+    "day_of_week": 3,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000021-4",
+    "agent_id": "AGT-000021",
+    "day_of_week": 4,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000022-0",
+    "agent_id": "AGT-000022",
+    "day_of_week": 0,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000022-1",
+    "agent_id": "AGT-000022",
+    "day_of_week": 1,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000022-2",
+    "agent_id": "AGT-000022",
+    "day_of_week": 2,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000022-3",
+    "agent_id": "AGT-000022",
+    "day_of_week": 3,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000022-4",
+    "agent_id": "AGT-000022",
+    "day_of_week": 4,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000022-5",
+    "agent_id": "AGT-000022",
+    "day_of_week": 5,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000022-6",
+    "agent_id": "AGT-000022",
+    "day_of_week": 6,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000023-0",
+    "agent_id": "AGT-000023",
+    "day_of_week": 0,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000023-1",
+    "agent_id": "AGT-000023",
+    "day_of_week": 1,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000023-2",
+    "agent_id": "AGT-000023",
+    "day_of_week": 2,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000023-3",
+    "agent_id": "AGT-000023",
+    "day_of_week": 3,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000023-4",
+    "agent_id": "AGT-000023",
+    "day_of_week": 4,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000024-0",
+    "agent_id": "AGT-000024",
+    "day_of_week": 0,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000024-1",
+    "agent_id": "AGT-000024",
+    "day_of_week": 1,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000024-2",
+    "agent_id": "AGT-000024",
+    "day_of_week": 2,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000024-3",
+    "agent_id": "AGT-000024",
+    "day_of_week": 3,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000024-4",
+    "agent_id": "AGT-000024",
+    "day_of_week": 4,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000024-5",
+    "agent_id": "AGT-000024",
+    "day_of_week": 5,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000024-6",
+    "agent_id": "AGT-000024",
+    "day_of_week": 6,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000025-0",
+    "agent_id": "AGT-000025",
+    "day_of_week": 0,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000025-1",
+    "agent_id": "AGT-000025",
+    "day_of_week": 1,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000025-2",
+    "agent_id": "AGT-000025",
+    "day_of_week": 2,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000025-3",
+    "agent_id": "AGT-000025",
+    "day_of_week": 3,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000025-4",
+    "agent_id": "AGT-000025",
+    "day_of_week": 4,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000026-0",
+    "agent_id": "AGT-000026",
+    "day_of_week": 0,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000026-1",
+    "agent_id": "AGT-000026",
+    "day_of_week": 1,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000026-2",
+    "agent_id": "AGT-000026",
+    "day_of_week": 2,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000026-3",
+    "agent_id": "AGT-000026",
+    "day_of_week": 3,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000026-4",
+    "agent_id": "AGT-000026",
+    "day_of_week": 4,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000026-5",
+    "agent_id": "AGT-000026",
+    "day_of_week": 5,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000026-6",
+    "agent_id": "AGT-000026",
+    "day_of_week": 6,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000027-0",
+    "agent_id": "AGT-000027",
+    "day_of_week": 0,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000027-1",
+    "agent_id": "AGT-000027",
+    "day_of_week": 1,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000027-2",
+    "agent_id": "AGT-000027",
+    "day_of_week": 2,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000027-3",
+    "agent_id": "AGT-000027",
+    "day_of_week": 3,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000027-4",
+    "agent_id": "AGT-000027",
+    "day_of_week": 4,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000028-0",
+    "agent_id": "AGT-000028",
+    "day_of_week": 0,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000028-1",
+    "agent_id": "AGT-000028",
+    "day_of_week": 1,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000028-2",
+    "agent_id": "AGT-000028",
+    "day_of_week": 2,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000028-3",
+    "agent_id": "AGT-000028",
+    "day_of_week": 3,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000028-4",
+    "agent_id": "AGT-000028",
+    "day_of_week": 4,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000028-5",
+    "agent_id": "AGT-000028",
+    "day_of_week": 5,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000028-6",
+    "agent_id": "AGT-000028",
+    "day_of_week": 6,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000029-0",
+    "agent_id": "AGT-000029",
+    "day_of_week": 0,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000029-1",
+    "agent_id": "AGT-000029",
+    "day_of_week": 1,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000029-2",
+    "agent_id": "AGT-000029",
+    "day_of_week": 2,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000029-3",
+    "agent_id": "AGT-000029",
+    "day_of_week": 3,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000029-4",
+    "agent_id": "AGT-000029",
+    "day_of_week": 4,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000030-0",
+    "agent_id": "AGT-000030",
+    "day_of_week": 0,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000030-1",
+    "agent_id": "AGT-000030",
+    "day_of_week": 1,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000030-2",
+    "agent_id": "AGT-000030",
+    "day_of_week": 2,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000030-3",
+    "agent_id": "AGT-000030",
+    "day_of_week": 3,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000030-4",
+    "agent_id": "AGT-000030",
+    "day_of_week": 4,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000030-5",
+    "agent_id": "AGT-000030",
+    "day_of_week": 5,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000030-6",
+    "agent_id": "AGT-000030",
+    "day_of_week": 6,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000031-0",
+    "agent_id": "AGT-000031",
+    "day_of_week": 0,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000031-1",
+    "agent_id": "AGT-000031",
+    "day_of_week": 1,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000031-2",
+    "agent_id": "AGT-000031",
+    "day_of_week": 2,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000031-3",
+    "agent_id": "AGT-000031",
+    "day_of_week": 3,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000031-4",
+    "agent_id": "AGT-000031",
+    "day_of_week": 4,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000032-0",
+    "agent_id": "AGT-000032",
+    "day_of_week": 0,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000032-1",
+    "agent_id": "AGT-000032",
+    "day_of_week": 1,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000032-2",
+    "agent_id": "AGT-000032",
+    "day_of_week": 2,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000032-3",
+    "agent_id": "AGT-000032",
+    "day_of_week": 3,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000032-4",
+    "agent_id": "AGT-000032",
+    "day_of_week": 4,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000032-5",
+    "agent_id": "AGT-000032",
+    "day_of_week": 5,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000032-6",
+    "agent_id": "AGT-000032",
+    "day_of_week": 6,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000033-0",
+    "agent_id": "AGT-000033",
+    "day_of_week": 0,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000033-1",
+    "agent_id": "AGT-000033",
+    "day_of_week": 1,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000033-2",
+    "agent_id": "AGT-000033",
+    "day_of_week": 2,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000033-3",
+    "agent_id": "AGT-000033",
+    "day_of_week": 3,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000033-4",
+    "agent_id": "AGT-000033",
+    "day_of_week": 4,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000034-0",
+    "agent_id": "AGT-000034",
+    "day_of_week": 0,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000034-1",
+    "agent_id": "AGT-000034",
+    "day_of_week": 1,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000034-2",
+    "agent_id": "AGT-000034",
+    "day_of_week": 2,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000034-3",
+    "agent_id": "AGT-000034",
+    "day_of_week": 3,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000034-4",
+    "agent_id": "AGT-000034",
+    "day_of_week": 4,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000034-5",
+    "agent_id": "AGT-000034",
+    "day_of_week": 5,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000034-6",
+    "agent_id": "AGT-000034",
+    "day_of_week": 6,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000035-0",
+    "agent_id": "AGT-000035",
+    "day_of_week": 0,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000035-1",
+    "agent_id": "AGT-000035",
+    "day_of_week": 1,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000035-2",
+    "agent_id": "AGT-000035",
+    "day_of_week": 2,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000035-3",
+    "agent_id": "AGT-000035",
+    "day_of_week": 3,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000035-4",
+    "agent_id": "AGT-000035",
+    "day_of_week": 4,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000036-0",
+    "agent_id": "AGT-000036",
+    "day_of_week": 0,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000036-1",
+    "agent_id": "AGT-000036",
+    "day_of_week": 1,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000036-2",
+    "agent_id": "AGT-000036",
+    "day_of_week": 2,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000036-3",
+    "agent_id": "AGT-000036",
+    "day_of_week": 3,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000036-4",
+    "agent_id": "AGT-000036",
+    "day_of_week": 4,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000036-5",
+    "agent_id": "AGT-000036",
+    "day_of_week": 5,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000036-6",
+    "agent_id": "AGT-000036",
+    "day_of_week": 6,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000037-0",
+    "agent_id": "AGT-000037",
+    "day_of_week": 0,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000037-1",
+    "agent_id": "AGT-000037",
+    "day_of_week": 1,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000037-2",
+    "agent_id": "AGT-000037",
+    "day_of_week": 2,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000037-3",
+    "agent_id": "AGT-000037",
+    "day_of_week": 3,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000037-4",
+    "agent_id": "AGT-000037",
+    "day_of_week": 4,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000038-0",
+    "agent_id": "AGT-000038",
+    "day_of_week": 0,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000038-1",
+    "agent_id": "AGT-000038",
+    "day_of_week": 1,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000038-2",
+    "agent_id": "AGT-000038",
+    "day_of_week": 2,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000038-3",
+    "agent_id": "AGT-000038",
+    "day_of_week": 3,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000038-4",
+    "agent_id": "AGT-000038",
+    "day_of_week": 4,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000038-5",
+    "agent_id": "AGT-000038",
+    "day_of_week": 5,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000038-6",
+    "agent_id": "AGT-000038",
+    "day_of_week": 6,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000039-0",
+    "agent_id": "AGT-000039",
+    "day_of_week": 0,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000039-1",
+    "agent_id": "AGT-000039",
+    "day_of_week": 1,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000039-2",
+    "agent_id": "AGT-000039",
+    "day_of_week": 2,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000039-3",
+    "agent_id": "AGT-000039",
+    "day_of_week": 3,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000039-4",
+    "agent_id": "AGT-000039",
+    "day_of_week": 4,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000040-0",
+    "agent_id": "AGT-000040",
+    "day_of_week": 0,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000040-1",
+    "agent_id": "AGT-000040",
+    "day_of_week": 1,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000040-2",
+    "agent_id": "AGT-000040",
+    "day_of_week": 2,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000040-3",
+    "agent_id": "AGT-000040",
+    "day_of_week": 3,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000040-4",
+    "agent_id": "AGT-000040",
+    "day_of_week": 4,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000040-5",
+    "agent_id": "AGT-000040",
+    "day_of_week": 5,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000040-6",
+    "agent_id": "AGT-000040",
+    "day_of_week": 6,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000041-0",
+    "agent_id": "AGT-000041",
+    "day_of_week": 0,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000041-1",
+    "agent_id": "AGT-000041",
+    "day_of_week": 1,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000041-2",
+    "agent_id": "AGT-000041",
+    "day_of_week": 2,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000041-3",
+    "agent_id": "AGT-000041",
+    "day_of_week": 3,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000041-4",
+    "agent_id": "AGT-000041",
+    "day_of_week": 4,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000042-0",
+    "agent_id": "AGT-000042",
+    "day_of_week": 0,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000042-1",
+    "agent_id": "AGT-000042",
+    "day_of_week": 1,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000042-2",
+    "agent_id": "AGT-000042",
+    "day_of_week": 2,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000042-3",
+    "agent_id": "AGT-000042",
+    "day_of_week": 3,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000042-4",
+    "agent_id": "AGT-000042",
+    "day_of_week": 4,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000042-5",
+    "agent_id": "AGT-000042",
+    "day_of_week": 5,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000042-6",
+    "agent_id": "AGT-000042",
+    "day_of_week": 6,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000043-0",
+    "agent_id": "AGT-000043",
+    "day_of_week": 0,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000043-1",
+    "agent_id": "AGT-000043",
+    "day_of_week": 1,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000043-2",
+    "agent_id": "AGT-000043",
+    "day_of_week": 2,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000043-3",
+    "agent_id": "AGT-000043",
+    "day_of_week": 3,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000043-4",
+    "agent_id": "AGT-000043",
+    "day_of_week": 4,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000044-0",
+    "agent_id": "AGT-000044",
+    "day_of_week": 0,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000044-1",
+    "agent_id": "AGT-000044",
+    "day_of_week": 1,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000044-2",
+    "agent_id": "AGT-000044",
+    "day_of_week": 2,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000044-3",
+    "agent_id": "AGT-000044",
+    "day_of_week": 3,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000044-4",
+    "agent_id": "AGT-000044",
+    "day_of_week": 4,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000044-5",
+    "agent_id": "AGT-000044",
+    "day_of_week": 5,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000044-6",
+    "agent_id": "AGT-000044",
+    "day_of_week": 6,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000045-0",
+    "agent_id": "AGT-000045",
+    "day_of_week": 0,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000045-1",
+    "agent_id": "AGT-000045",
+    "day_of_week": 1,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000045-2",
+    "agent_id": "AGT-000045",
+    "day_of_week": 2,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000045-3",
+    "agent_id": "AGT-000045",
+    "day_of_week": 3,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000045-4",
+    "agent_id": "AGT-000045",
+    "day_of_week": 4,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000046-0",
+    "agent_id": "AGT-000046",
+    "day_of_week": 0,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000046-1",
+    "agent_id": "AGT-000046",
+    "day_of_week": 1,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000046-2",
+    "agent_id": "AGT-000046",
+    "day_of_week": 2,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000046-3",
+    "agent_id": "AGT-000046",
+    "day_of_week": 3,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000046-4",
+    "agent_id": "AGT-000046",
+    "day_of_week": 4,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000046-5",
+    "agent_id": "AGT-000046",
+    "day_of_week": 5,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000046-6",
+    "agent_id": "AGT-000046",
+    "day_of_week": 6,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000047-0",
+    "agent_id": "AGT-000047",
+    "day_of_week": 0,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000047-1",
+    "agent_id": "AGT-000047",
+    "day_of_week": 1,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000047-2",
+    "agent_id": "AGT-000047",
+    "day_of_week": 2,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000047-3",
+    "agent_id": "AGT-000047",
+    "day_of_week": 3,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000047-4",
+    "agent_id": "AGT-000047",
+    "day_of_week": 4,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000048-0",
+    "agent_id": "AGT-000048",
+    "day_of_week": 0,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000048-1",
+    "agent_id": "AGT-000048",
+    "day_of_week": 1,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000048-2",
+    "agent_id": "AGT-000048",
+    "day_of_week": 2,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000048-3",
+    "agent_id": "AGT-000048",
+    "day_of_week": 3,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000048-4",
+    "agent_id": "AGT-000048",
+    "day_of_week": 4,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000048-5",
+    "agent_id": "AGT-000048",
+    "day_of_week": 5,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000048-6",
+    "agent_id": "AGT-000048",
+    "day_of_week": 6,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000049-0",
+    "agent_id": "AGT-000049",
+    "day_of_week": 0,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000049-1",
+    "agent_id": "AGT-000049",
+    "day_of_week": 1,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000049-2",
+    "agent_id": "AGT-000049",
+    "day_of_week": 2,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000049-3",
+    "agent_id": "AGT-000049",
+    "day_of_week": 3,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000049-4",
+    "agent_id": "AGT-000049",
+    "day_of_week": 4,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000050-0",
+    "agent_id": "AGT-000050",
+    "day_of_week": 0,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000050-1",
+    "agent_id": "AGT-000050",
+    "day_of_week": 1,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000050-2",
+    "agent_id": "AGT-000050",
+    "day_of_week": 2,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000050-3",
+    "agent_id": "AGT-000050",
+    "day_of_week": 3,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000050-4",
+    "agent_id": "AGT-000050",
+    "day_of_week": 4,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000050-5",
+    "agent_id": "AGT-000050",
+    "day_of_week": 5,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000050-6",
+    "agent_id": "AGT-000050",
+    "day_of_week": 6,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000051-0",
+    "agent_id": "AGT-000051",
+    "day_of_week": 0,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000051-1",
+    "agent_id": "AGT-000051",
+    "day_of_week": 1,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000051-2",
+    "agent_id": "AGT-000051",
+    "day_of_week": 2,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000051-3",
+    "agent_id": "AGT-000051",
+    "day_of_week": 3,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000051-4",
+    "agent_id": "AGT-000051",
+    "day_of_week": 4,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000052-0",
+    "agent_id": "AGT-000052",
+    "day_of_week": 0,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000052-1",
+    "agent_id": "AGT-000052",
+    "day_of_week": 1,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000052-2",
+    "agent_id": "AGT-000052",
+    "day_of_week": 2,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000052-3",
+    "agent_id": "AGT-000052",
+    "day_of_week": 3,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000052-4",
+    "agent_id": "AGT-000052",
+    "day_of_week": 4,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000052-5",
+    "agent_id": "AGT-000052",
+    "day_of_week": 5,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000052-6",
+    "agent_id": "AGT-000052",
+    "day_of_week": 6,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000053-0",
+    "agent_id": "AGT-000053",
+    "day_of_week": 0,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000053-1",
+    "agent_id": "AGT-000053",
+    "day_of_week": 1,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000053-2",
+    "agent_id": "AGT-000053",
+    "day_of_week": 2,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000053-3",
+    "agent_id": "AGT-000053",
+    "day_of_week": 3,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000053-4",
+    "agent_id": "AGT-000053",
+    "day_of_week": 4,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000054-0",
+    "agent_id": "AGT-000054",
+    "day_of_week": 0,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000054-1",
+    "agent_id": "AGT-000054",
+    "day_of_week": 1,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000054-2",
+    "agent_id": "AGT-000054",
+    "day_of_week": 2,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000054-3",
+    "agent_id": "AGT-000054",
+    "day_of_week": 3,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000054-4",
+    "agent_id": "AGT-000054",
+    "day_of_week": 4,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000054-5",
+    "agent_id": "AGT-000054",
+    "day_of_week": 5,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000054-6",
+    "agent_id": "AGT-000054",
+    "day_of_week": 6,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000055-0",
+    "agent_id": "AGT-000055",
+    "day_of_week": 0,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000055-1",
+    "agent_id": "AGT-000055",
+    "day_of_week": 1,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000055-2",
+    "agent_id": "AGT-000055",
+    "day_of_week": 2,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000055-3",
+    "agent_id": "AGT-000055",
+    "day_of_week": 3,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000055-4",
+    "agent_id": "AGT-000055",
+    "day_of_week": 4,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000056-0",
+    "agent_id": "AGT-000056",
+    "day_of_week": 0,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000056-1",
+    "agent_id": "AGT-000056",
+    "day_of_week": 1,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000056-2",
+    "agent_id": "AGT-000056",
+    "day_of_week": 2,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000056-3",
+    "agent_id": "AGT-000056",
+    "day_of_week": 3,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000056-4",
+    "agent_id": "AGT-000056",
+    "day_of_week": 4,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000056-5",
+    "agent_id": "AGT-000056",
+    "day_of_week": 5,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000056-6",
+    "agent_id": "AGT-000056",
+    "day_of_week": 6,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000057-0",
+    "agent_id": "AGT-000057",
+    "day_of_week": 0,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000057-1",
+    "agent_id": "AGT-000057",
+    "day_of_week": 1,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000057-2",
+    "agent_id": "AGT-000057",
+    "day_of_week": 2,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000057-3",
+    "agent_id": "AGT-000057",
+    "day_of_week": 3,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000057-4",
+    "agent_id": "AGT-000057",
+    "day_of_week": 4,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000058-0",
+    "agent_id": "AGT-000058",
+    "day_of_week": 0,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000058-1",
+    "agent_id": "AGT-000058",
+    "day_of_week": 1,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000058-2",
+    "agent_id": "AGT-000058",
+    "day_of_week": 2,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000058-3",
+    "agent_id": "AGT-000058",
+    "day_of_week": 3,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000058-4",
+    "agent_id": "AGT-000058",
+    "day_of_week": 4,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000058-5",
+    "agent_id": "AGT-000058",
+    "day_of_week": 5,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000058-6",
+    "agent_id": "AGT-000058",
+    "day_of_week": 6,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000059-0",
+    "agent_id": "AGT-000059",
+    "day_of_week": 0,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000059-1",
+    "agent_id": "AGT-000059",
+    "day_of_week": 1,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000059-2",
+    "agent_id": "AGT-000059",
+    "day_of_week": 2,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000059-3",
+    "agent_id": "AGT-000059",
+    "day_of_week": 3,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000059-4",
+    "agent_id": "AGT-000059",
+    "day_of_week": 4,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000060-0",
+    "agent_id": "AGT-000060",
+    "day_of_week": 0,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000060-1",
+    "agent_id": "AGT-000060",
+    "day_of_week": 1,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000060-2",
+    "agent_id": "AGT-000060",
+    "day_of_week": 2,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000060-3",
+    "agent_id": "AGT-000060",
+    "day_of_week": 3,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000060-4",
+    "agent_id": "AGT-000060",
+    "day_of_week": 4,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000060-5",
+    "agent_id": "AGT-000060",
+    "day_of_week": 5,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000060-6",
+    "agent_id": "AGT-000060",
+    "day_of_week": 6,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000061-0",
+    "agent_id": "AGT-000061",
+    "day_of_week": 0,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000061-1",
+    "agent_id": "AGT-000061",
+    "day_of_week": 1,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000061-2",
+    "agent_id": "AGT-000061",
+    "day_of_week": 2,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000061-3",
+    "agent_id": "AGT-000061",
+    "day_of_week": 3,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000061-4",
+    "agent_id": "AGT-000061",
+    "day_of_week": 4,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000062-0",
+    "agent_id": "AGT-000062",
+    "day_of_week": 0,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000062-1",
+    "agent_id": "AGT-000062",
+    "day_of_week": 1,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000062-2",
+    "agent_id": "AGT-000062",
+    "day_of_week": 2,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000062-3",
+    "agent_id": "AGT-000062",
+    "day_of_week": 3,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000062-4",
+    "agent_id": "AGT-000062",
+    "day_of_week": 4,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000062-5",
+    "agent_id": "AGT-000062",
+    "day_of_week": 5,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000062-6",
+    "agent_id": "AGT-000062",
+    "day_of_week": 6,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000063-0",
+    "agent_id": "AGT-000063",
+    "day_of_week": 0,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000063-1",
+    "agent_id": "AGT-000063",
+    "day_of_week": 1,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000063-2",
+    "agent_id": "AGT-000063",
+    "day_of_week": 2,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000063-3",
+    "agent_id": "AGT-000063",
+    "day_of_week": 3,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000063-4",
+    "agent_id": "AGT-000063",
+    "day_of_week": 4,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000064-0",
+    "agent_id": "AGT-000064",
+    "day_of_week": 0,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000064-1",
+    "agent_id": "AGT-000064",
+    "day_of_week": 1,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000064-2",
+    "agent_id": "AGT-000064",
+    "day_of_week": 2,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000064-3",
+    "agent_id": "AGT-000064",
+    "day_of_week": 3,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000064-4",
+    "agent_id": "AGT-000064",
+    "day_of_week": 4,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000064-5",
+    "agent_id": "AGT-000064",
+    "day_of_week": 5,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000064-6",
+    "agent_id": "AGT-000064",
+    "day_of_week": 6,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000065-0",
+    "agent_id": "AGT-000065",
+    "day_of_week": 0,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000065-1",
+    "agent_id": "AGT-000065",
+    "day_of_week": 1,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000065-2",
+    "agent_id": "AGT-000065",
+    "day_of_week": 2,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000065-3",
+    "agent_id": "AGT-000065",
+    "day_of_week": 3,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000065-4",
+    "agent_id": "AGT-000065",
+    "day_of_week": 4,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000066-0",
+    "agent_id": "AGT-000066",
+    "day_of_week": 0,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000066-1",
+    "agent_id": "AGT-000066",
+    "day_of_week": 1,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000066-2",
+    "agent_id": "AGT-000066",
+    "day_of_week": 2,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000066-3",
+    "agent_id": "AGT-000066",
+    "day_of_week": 3,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000066-4",
+    "agent_id": "AGT-000066",
+    "day_of_week": 4,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000066-5",
+    "agent_id": "AGT-000066",
+    "day_of_week": 5,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000066-6",
+    "agent_id": "AGT-000066",
+    "day_of_week": 6,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000067-0",
+    "agent_id": "AGT-000067",
+    "day_of_week": 0,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000067-1",
+    "agent_id": "AGT-000067",
+    "day_of_week": 1,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000067-2",
+    "agent_id": "AGT-000067",
+    "day_of_week": 2,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000067-3",
+    "agent_id": "AGT-000067",
+    "day_of_week": 3,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000067-4",
+    "agent_id": "AGT-000067",
+    "day_of_week": 4,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000068-0",
+    "agent_id": "AGT-000068",
+    "day_of_week": 0,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000068-1",
+    "agent_id": "AGT-000068",
+    "day_of_week": 1,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000068-2",
+    "agent_id": "AGT-000068",
+    "day_of_week": 2,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000068-3",
+    "agent_id": "AGT-000068",
+    "day_of_week": 3,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000068-4",
+    "agent_id": "AGT-000068",
+    "day_of_week": 4,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000068-5",
+    "agent_id": "AGT-000068",
+    "day_of_week": 5,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000068-6",
+    "agent_id": "AGT-000068",
+    "day_of_week": 6,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000069-0",
+    "agent_id": "AGT-000069",
+    "day_of_week": 0,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000069-1",
+    "agent_id": "AGT-000069",
+    "day_of_week": 1,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000069-2",
+    "agent_id": "AGT-000069",
+    "day_of_week": 2,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000069-3",
+    "agent_id": "AGT-000069",
+    "day_of_week": 3,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000069-4",
+    "agent_id": "AGT-000069",
+    "day_of_week": 4,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000070-0",
+    "agent_id": "AGT-000070",
+    "day_of_week": 0,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000070-1",
+    "agent_id": "AGT-000070",
+    "day_of_week": 1,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000070-2",
+    "agent_id": "AGT-000070",
+    "day_of_week": 2,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000070-3",
+    "agent_id": "AGT-000070",
+    "day_of_week": 3,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000070-4",
+    "agent_id": "AGT-000070",
+    "day_of_week": 4,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000070-5",
+    "agent_id": "AGT-000070",
+    "day_of_week": 5,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000070-6",
+    "agent_id": "AGT-000070",
+    "day_of_week": 6,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000071-0",
+    "agent_id": "AGT-000071",
+    "day_of_week": 0,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000071-1",
+    "agent_id": "AGT-000071",
+    "day_of_week": 1,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000071-2",
+    "agent_id": "AGT-000071",
+    "day_of_week": 2,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000071-3",
+    "agent_id": "AGT-000071",
+    "day_of_week": 3,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000071-4",
+    "agent_id": "AGT-000071",
+    "day_of_week": 4,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000072-0",
+    "agent_id": "AGT-000072",
+    "day_of_week": 0,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000072-1",
+    "agent_id": "AGT-000072",
+    "day_of_week": 1,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000072-2",
+    "agent_id": "AGT-000072",
+    "day_of_week": 2,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000072-3",
+    "agent_id": "AGT-000072",
+    "day_of_week": 3,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000072-4",
+    "agent_id": "AGT-000072",
+    "day_of_week": 4,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000072-5",
+    "agent_id": "AGT-000072",
+    "day_of_week": 5,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000072-6",
+    "agent_id": "AGT-000072",
+    "day_of_week": 6,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000073-0",
+    "agent_id": "AGT-000073",
+    "day_of_week": 0,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000073-1",
+    "agent_id": "AGT-000073",
+    "day_of_week": 1,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000073-2",
+    "agent_id": "AGT-000073",
+    "day_of_week": 2,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000073-3",
+    "agent_id": "AGT-000073",
+    "day_of_week": 3,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000073-4",
+    "agent_id": "AGT-000073",
+    "day_of_week": 4,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000074-0",
+    "agent_id": "AGT-000074",
+    "day_of_week": 0,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000074-1",
+    "agent_id": "AGT-000074",
+    "day_of_week": 1,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000074-2",
+    "agent_id": "AGT-000074",
+    "day_of_week": 2,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000074-3",
+    "agent_id": "AGT-000074",
+    "day_of_week": 3,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000074-4",
+    "agent_id": "AGT-000074",
+    "day_of_week": 4,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000074-5",
+    "agent_id": "AGT-000074",
+    "day_of_week": 5,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000074-6",
+    "agent_id": "AGT-000074",
+    "day_of_week": 6,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000075-0",
+    "agent_id": "AGT-000075",
+    "day_of_week": 0,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000075-1",
+    "agent_id": "AGT-000075",
+    "day_of_week": 1,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000075-2",
+    "agent_id": "AGT-000075",
+    "day_of_week": 2,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000075-3",
+    "agent_id": "AGT-000075",
+    "day_of_week": 3,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000075-4",
+    "agent_id": "AGT-000075",
+    "day_of_week": 4,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000076-0",
+    "agent_id": "AGT-000076",
+    "day_of_week": 0,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000076-1",
+    "agent_id": "AGT-000076",
+    "day_of_week": 1,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000076-2",
+    "agent_id": "AGT-000076",
+    "day_of_week": 2,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000076-3",
+    "agent_id": "AGT-000076",
+    "day_of_week": 3,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000076-4",
+    "agent_id": "AGT-000076",
+    "day_of_week": 4,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000076-5",
+    "agent_id": "AGT-000076",
+    "day_of_week": 5,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000076-6",
+    "agent_id": "AGT-000076",
+    "day_of_week": 6,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000077-0",
+    "agent_id": "AGT-000077",
+    "day_of_week": 0,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000077-1",
+    "agent_id": "AGT-000077",
+    "day_of_week": 1,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000077-2",
+    "agent_id": "AGT-000077",
+    "day_of_week": 2,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000077-3",
+    "agent_id": "AGT-000077",
+    "day_of_week": 3,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000077-4",
+    "agent_id": "AGT-000077",
+    "day_of_week": 4,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000078-0",
+    "agent_id": "AGT-000078",
+    "day_of_week": 0,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000078-1",
+    "agent_id": "AGT-000078",
+    "day_of_week": 1,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000078-2",
+    "agent_id": "AGT-000078",
+    "day_of_week": 2,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000078-3",
+    "agent_id": "AGT-000078",
+    "day_of_week": 3,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000078-4",
+    "agent_id": "AGT-000078",
+    "day_of_week": 4,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000078-5",
+    "agent_id": "AGT-000078",
+    "day_of_week": 5,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000078-6",
+    "agent_id": "AGT-000078",
+    "day_of_week": 6,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000079-0",
+    "agent_id": "AGT-000079",
+    "day_of_week": 0,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000079-1",
+    "agent_id": "AGT-000079",
+    "day_of_week": 1,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000079-2",
+    "agent_id": "AGT-000079",
+    "day_of_week": 2,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000079-3",
+    "agent_id": "AGT-000079",
+    "day_of_week": 3,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000079-4",
+    "agent_id": "AGT-000079",
+    "day_of_week": 4,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000080-0",
+    "agent_id": "AGT-000080",
+    "day_of_week": 0,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000080-1",
+    "agent_id": "AGT-000080",
+    "day_of_week": 1,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000080-2",
+    "agent_id": "AGT-000080",
+    "day_of_week": 2,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000080-3",
+    "agent_id": "AGT-000080",
+    "day_of_week": 3,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000080-4",
+    "agent_id": "AGT-000080",
+    "day_of_week": 4,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000080-5",
+    "agent_id": "AGT-000080",
+    "day_of_week": 5,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000080-6",
+    "agent_id": "AGT-000080",
+    "day_of_week": 6,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000081-0",
+    "agent_id": "AGT-000081",
+    "day_of_week": 0,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000081-1",
+    "agent_id": "AGT-000081",
+    "day_of_week": 1,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000081-2",
+    "agent_id": "AGT-000081",
+    "day_of_week": 2,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000081-3",
+    "agent_id": "AGT-000081",
+    "day_of_week": 3,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000081-4",
+    "agent_id": "AGT-000081",
+    "day_of_week": 4,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000082-0",
+    "agent_id": "AGT-000082",
+    "day_of_week": 0,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000082-1",
+    "agent_id": "AGT-000082",
+    "day_of_week": 1,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000082-2",
+    "agent_id": "AGT-000082",
+    "day_of_week": 2,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000082-3",
+    "agent_id": "AGT-000082",
+    "day_of_week": 3,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000082-4",
+    "agent_id": "AGT-000082",
+    "day_of_week": 4,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000082-5",
+    "agent_id": "AGT-000082",
+    "day_of_week": 5,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000082-6",
+    "agent_id": "AGT-000082",
+    "day_of_week": 6,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000083-0",
+    "agent_id": "AGT-000083",
+    "day_of_week": 0,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000083-1",
+    "agent_id": "AGT-000083",
+    "day_of_week": 1,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000083-2",
+    "agent_id": "AGT-000083",
+    "day_of_week": 2,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000083-3",
+    "agent_id": "AGT-000083",
+    "day_of_week": 3,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000083-4",
+    "agent_id": "AGT-000083",
+    "day_of_week": 4,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000084-0",
+    "agent_id": "AGT-000084",
+    "day_of_week": 0,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000084-1",
+    "agent_id": "AGT-000084",
+    "day_of_week": 1,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000084-2",
+    "agent_id": "AGT-000084",
+    "day_of_week": 2,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000084-3",
+    "agent_id": "AGT-000084",
+    "day_of_week": 3,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000084-4",
+    "agent_id": "AGT-000084",
+    "day_of_week": 4,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000084-5",
+    "agent_id": "AGT-000084",
+    "day_of_week": 5,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000084-6",
+    "agent_id": "AGT-000084",
+    "day_of_week": 6,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000085-0",
+    "agent_id": "AGT-000085",
+    "day_of_week": 0,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000085-1",
+    "agent_id": "AGT-000085",
+    "day_of_week": 1,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000085-2",
+    "agent_id": "AGT-000085",
+    "day_of_week": 2,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000085-3",
+    "agent_id": "AGT-000085",
+    "day_of_week": 3,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000085-4",
+    "agent_id": "AGT-000085",
+    "day_of_week": 4,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000086-0",
+    "agent_id": "AGT-000086",
+    "day_of_week": 0,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000086-1",
+    "agent_id": "AGT-000086",
+    "day_of_week": 1,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000086-2",
+    "agent_id": "AGT-000086",
+    "day_of_week": 2,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000086-3",
+    "agent_id": "AGT-000086",
+    "day_of_week": 3,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000086-4",
+    "agent_id": "AGT-000086",
+    "day_of_week": 4,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000086-5",
+    "agent_id": "AGT-000086",
+    "day_of_week": 5,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000086-6",
+    "agent_id": "AGT-000086",
+    "day_of_week": 6,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000087-0",
+    "agent_id": "AGT-000087",
+    "day_of_week": 0,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000087-1",
+    "agent_id": "AGT-000087",
+    "day_of_week": 1,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000087-2",
+    "agent_id": "AGT-000087",
+    "day_of_week": 2,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000087-3",
+    "agent_id": "AGT-000087",
+    "day_of_week": 3,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000087-4",
+    "agent_id": "AGT-000087",
+    "day_of_week": 4,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000088-0",
+    "agent_id": "AGT-000088",
+    "day_of_week": 0,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000088-1",
+    "agent_id": "AGT-000088",
+    "day_of_week": 1,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000088-2",
+    "agent_id": "AGT-000088",
+    "day_of_week": 2,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000088-3",
+    "agent_id": "AGT-000088",
+    "day_of_week": 3,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000088-4",
+    "agent_id": "AGT-000088",
+    "day_of_week": 4,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000088-5",
+    "agent_id": "AGT-000088",
+    "day_of_week": 5,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000088-6",
+    "agent_id": "AGT-000088",
+    "day_of_week": 6,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000089-0",
+    "agent_id": "AGT-000089",
+    "day_of_week": 0,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000089-1",
+    "agent_id": "AGT-000089",
+    "day_of_week": 1,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000089-2",
+    "agent_id": "AGT-000089",
+    "day_of_week": 2,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000089-3",
+    "agent_id": "AGT-000089",
+    "day_of_week": 3,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000089-4",
+    "agent_id": "AGT-000089",
+    "day_of_week": 4,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000090-0",
+    "agent_id": "AGT-000090",
+    "day_of_week": 0,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000090-1",
+    "agent_id": "AGT-000090",
+    "day_of_week": 1,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000090-2",
+    "agent_id": "AGT-000090",
+    "day_of_week": 2,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000090-3",
+    "agent_id": "AGT-000090",
+    "day_of_week": 3,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000090-4",
+    "agent_id": "AGT-000090",
+    "day_of_week": 4,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000090-5",
+    "agent_id": "AGT-000090",
+    "day_of_week": 5,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000090-6",
+    "agent_id": "AGT-000090",
+    "day_of_week": 6,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000091-0",
+    "agent_id": "AGT-000091",
+    "day_of_week": 0,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000091-1",
+    "agent_id": "AGT-000091",
+    "day_of_week": 1,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000091-2",
+    "agent_id": "AGT-000091",
+    "day_of_week": 2,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000091-3",
+    "agent_id": "AGT-000091",
+    "day_of_week": 3,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000091-4",
+    "agent_id": "AGT-000091",
+    "day_of_week": 4,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000092-0",
+    "agent_id": "AGT-000092",
+    "day_of_week": 0,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000092-1",
+    "agent_id": "AGT-000092",
+    "day_of_week": 1,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000092-2",
+    "agent_id": "AGT-000092",
+    "day_of_week": 2,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000092-3",
+    "agent_id": "AGT-000092",
+    "day_of_week": 3,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000092-4",
+    "agent_id": "AGT-000092",
+    "day_of_week": 4,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000092-5",
+    "agent_id": "AGT-000092",
+    "day_of_week": 5,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000092-6",
+    "agent_id": "AGT-000092",
+    "day_of_week": 6,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000093-0",
+    "agent_id": "AGT-000093",
+    "day_of_week": 0,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000093-1",
+    "agent_id": "AGT-000093",
+    "day_of_week": 1,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000093-2",
+    "agent_id": "AGT-000093",
+    "day_of_week": 2,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000093-3",
+    "agent_id": "AGT-000093",
+    "day_of_week": 3,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000093-4",
+    "agent_id": "AGT-000093",
+    "day_of_week": 4,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000094-0",
+    "agent_id": "AGT-000094",
+    "day_of_week": 0,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000094-1",
+    "agent_id": "AGT-000094",
+    "day_of_week": 1,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000094-2",
+    "agent_id": "AGT-000094",
+    "day_of_week": 2,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000094-3",
+    "agent_id": "AGT-000094",
+    "day_of_week": 3,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000094-4",
+    "agent_id": "AGT-000094",
+    "day_of_week": 4,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000094-5",
+    "agent_id": "AGT-000094",
+    "day_of_week": 5,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000094-6",
+    "agent_id": "AGT-000094",
+    "day_of_week": 6,
+    "start_hour": 14,
+    "end_hour": 23,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000095-0",
+    "agent_id": "AGT-000095",
+    "day_of_week": 0,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000095-1",
+    "agent_id": "AGT-000095",
+    "day_of_week": 1,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000095-2",
+    "agent_id": "AGT-000095",
+    "day_of_week": 2,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000095-3",
+    "agent_id": "AGT-000095",
+    "day_of_week": 3,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000095-4",
+    "agent_id": "AGT-000095",
+    "day_of_week": 4,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000096-0",
+    "agent_id": "AGT-000096",
+    "day_of_week": 0,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000096-1",
+    "agent_id": "AGT-000096",
+    "day_of_week": 1,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000096-2",
+    "agent_id": "AGT-000096",
+    "day_of_week": 2,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000096-3",
+    "agent_id": "AGT-000096",
+    "day_of_week": 3,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000096-4",
+    "agent_id": "AGT-000096",
+    "day_of_week": 4,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000096-5",
+    "agent_id": "AGT-000096",
+    "day_of_week": 5,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000096-6",
+    "agent_id": "AGT-000096",
+    "day_of_week": 6,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000097-0",
+    "agent_id": "AGT-000097",
+    "day_of_week": 0,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000097-1",
+    "agent_id": "AGT-000097",
+    "day_of_week": 1,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000097-2",
+    "agent_id": "AGT-000097",
+    "day_of_week": 2,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000097-3",
+    "agent_id": "AGT-000097",
+    "day_of_week": 3,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000097-4",
+    "agent_id": "AGT-000097",
+    "day_of_week": 4,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000098-0",
+    "agent_id": "AGT-000098",
+    "day_of_week": 0,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000098-1",
+    "agent_id": "AGT-000098",
+    "day_of_week": 1,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000098-2",
+    "agent_id": "AGT-000098",
+    "day_of_week": 2,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000098-3",
+    "agent_id": "AGT-000098",
+    "day_of_week": 3,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000098-4",
+    "agent_id": "AGT-000098",
+    "day_of_week": 4,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000098-5",
+    "agent_id": "AGT-000098",
+    "day_of_week": 5,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000098-6",
+    "agent_id": "AGT-000098",
+    "day_of_week": 6,
+    "start_hour": 0,
+    "end_hour": 24,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000099-0",
+    "agent_id": "AGT-000099",
+    "day_of_week": 0,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000099-1",
+    "agent_id": "AGT-000099",
+    "day_of_week": 1,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000099-2",
+    "agent_id": "AGT-000099",
+    "day_of_week": 2,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000099-3",
+    "agent_id": "AGT-000099",
+    "day_of_week": 3,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000099-4",
+    "agent_id": "AGT-000099",
+    "day_of_week": 4,
+    "start_hour": 6,
+    "end_hour": 15,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000100-0",
+    "agent_id": "AGT-000100",
+    "day_of_week": 0,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000100-1",
+    "agent_id": "AGT-000100",
+    "day_of_week": 1,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000100-2",
+    "agent_id": "AGT-000100",
+    "day_of_week": 2,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000100-3",
+    "agent_id": "AGT-000100",
+    "day_of_week": 3,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000100-4",
+    "agent_id": "AGT-000100",
+    "day_of_week": 4,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000100-5",
+    "agent_id": "AGT-000100",
+    "day_of_week": 5,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "shift_id": "SHF-AGT-000100-6",
+    "agent_id": "AGT-000100",
+    "day_of_week": 6,
+    "start_hour": 9,
+    "end_hour": 18,
+    "timezone": "Asia/Kolkata"
+  }
+]

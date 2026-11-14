@@ -1,0 +1,4 @@
+channel_id,name,default_sla_factor,is_active
+email,Email Ingestion,1.0,True
+chat,Live Chat,0.5,True
+phone,Voice / Phone,0.2,True

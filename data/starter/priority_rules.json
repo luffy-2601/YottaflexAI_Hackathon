@@ -1,0 +1,26 @@
+[
+  {
+    "rule_id": "PR-001",
+    "rule_name": "Account Compromise Safety Invariant",
+    "intent_id": "ACCOUNT_SECURITY",
+    "trigger_keyword": "stolen",
+    "enforced_priority": "P1",
+    "is_safety_critical": true
+  },
+  {
+    "rule_id": "PR-002",
+    "rule_name": "Payment Gateway Hard Down",
+    "intent_id": "PAYMENT_FAILURE",
+    "trigger_keyword": "production down",
+    "enforced_priority": "P1",
+    "is_safety_critical": true
+  },
+  {
+    "rule_id": "PR-003",
+    "rule_name": "Standard Billing High",
+    "intent_id": "PAYMENT_DUPLICATE",
+    "trigger_keyword": "double charge",
+    "enforced_priority": "P2",
+    "is_safety_critical": false
+  }
+]

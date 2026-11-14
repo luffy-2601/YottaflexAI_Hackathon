@@ -1,0 +1,1002 @@
+[
+  {
+    "agent_id": "AGT-000001",
+    "name": "Sarah Williams",
+    "email": "sarah.williams.1@supportops.internal",
+    "status": "ON_BREAK",
+    "max_concurrency": 4,
+    "current_active_tickets": 7,
+    "experience_score": 0.85,
+    "created_at": "2026-06-08T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000002",
+    "name": "Wahab Agate",
+    "email": "wahab.agate.2@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 3,
+    "current_active_tickets": 3,
+    "experience_score": 0.91,
+    "created_at": "2026-03-14T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000003",
+    "name": "Rushil Hari",
+    "email": "rushil.hari.3@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 2,
+    "current_active_tickets": 2,
+    "experience_score": 0.94,
+    "created_at": "2025-12-01T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000004",
+    "name": "Sandra Dean",
+    "email": "sandra.dean.4@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 2,
+    "current_active_tickets": 2,
+    "experience_score": 0.95,
+    "created_at": "2026-01-31T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000005",
+    "name": "Yashoda D\u2019Alia",
+    "email": "yashoda.dalia.5@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 2,
+    "current_active_tickets": 2,
+    "experience_score": 0.9,
+    "created_at": "2026-06-18T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000006",
+    "name": "Abdul Contractor",
+    "email": "abdul.contractor.6@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 2,
+    "current_active_tickets": 2,
+    "experience_score": 0.9,
+    "created_at": "2025-12-17T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000007",
+    "name": "Gregory Brown",
+    "email": "gregory.brown.7@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 4,
+    "current_active_tickets": 3,
+    "experience_score": 0.89,
+    "created_at": "2025-12-31T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000008",
+    "name": "Tanvi Bhattacharyya",
+    "email": "tanvi.bhattacharyya.8@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 4,
+    "current_active_tickets": 4,
+    "experience_score": 0.88,
+    "created_at": "2025-10-14T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000009",
+    "name": "Yochana Varghese",
+    "email": "yochana.varghese.9@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 2,
+    "current_active_tickets": 2,
+    "experience_score": 0.71,
+    "created_at": "2026-06-04T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000010",
+    "name": "Christopher Gilbert",
+    "email": "christopher.gilbert.10@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 5,
+    "current_active_tickets": 5,
+    "experience_score": 0.98,
+    "created_at": "2026-03-20T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000011",
+    "name": "Jessica Page",
+    "email": "jessica.page.11@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 3,
+    "current_active_tickets": 3,
+    "experience_score": 0.81,
+    "created_at": "2026-04-02T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000012",
+    "name": "Libni Wable",
+    "email": "libni.wable.12@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 3,
+    "current_active_tickets": 3,
+    "experience_score": 0.94,
+    "created_at": "2025-09-11T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000013",
+    "name": "Ekbal Prabhakar",
+    "email": "ekbal.prabhakar.13@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 3,
+    "current_active_tickets": 3,
+    "experience_score": 0.75,
+    "created_at": "2026-05-30T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000014",
+    "name": "Yamini Handa",
+    "email": "yamini.handa.14@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 2,
+    "current_active_tickets": 2,
+    "experience_score": 0.72,
+    "created_at": "2025-09-04T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000015",
+    "name": "Falan Ramakrishnan",
+    "email": "falan.ramakrishnan.15@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 5,
+    "current_active_tickets": 3,
+    "experience_score": 0.66,
+    "created_at": "2026-05-02T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000016",
+    "name": "Varsha Borde",
+    "email": "varsha.borde.16@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 4,
+    "current_active_tickets": 4,
+    "experience_score": 0.92,
+    "created_at": "2026-02-01T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000017",
+    "name": "Benjamin Radhakrishnan",
+    "email": "benjamin.radhakrishnan.17@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 4,
+    "current_active_tickets": 4,
+    "experience_score": 0.78,
+    "created_at": "2025-12-29T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000018",
+    "name": "Balhaar Khanna",
+    "email": "balhaar.khanna.18@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 3,
+    "current_active_tickets": 0,
+    "experience_score": 0.79,
+    "created_at": "2026-04-10T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000019",
+    "name": "Daksha Varty",
+    "email": "daksha.varty.19@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 4,
+    "current_active_tickets": 2,
+    "experience_score": 0.97,
+    "created_at": "2025-08-09T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000020",
+    "name": "Shannon Mcdonald",
+    "email": "shannon.mcdonald.20@supportops.internal",
+    "status": "ON_BREAK",
+    "max_concurrency": 2,
+    "current_active_tickets": 0,
+    "experience_score": 0.65,
+    "created_at": "2026-04-13T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000021",
+    "name": "Brinda Bedi",
+    "email": "brinda.bedi.21@supportops.internal",
+    "status": "ON_BREAK",
+    "max_concurrency": 4,
+    "current_active_tickets": 4,
+    "experience_score": 0.74,
+    "created_at": "2026-04-04T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000022",
+    "name": "Libni Varkey",
+    "email": "libni.varkey.22@supportops.internal",
+    "status": "ON_BREAK",
+    "max_concurrency": 3,
+    "current_active_tickets": 0,
+    "experience_score": 0.88,
+    "created_at": "2026-06-08T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000023",
+    "name": "Joe Morgan",
+    "email": "joe.morgan.23@supportops.internal",
+    "status": "ON_BREAK",
+    "max_concurrency": 3,
+    "current_active_tickets": 1,
+    "experience_score": 0.73,
+    "created_at": "2026-03-16T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000024",
+    "name": "Yasti Wable",
+    "email": "yasti.wable.24@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 4,
+    "current_active_tickets": 4,
+    "experience_score": 0.98,
+    "created_at": "2026-06-02T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000025",
+    "name": "Matthew Scott",
+    "email": "matthew.scott.25@supportops.internal",
+    "status": "ON_BREAK",
+    "max_concurrency": 3,
+    "current_active_tickets": 1,
+    "experience_score": 0.75,
+    "created_at": "2025-10-26T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000026",
+    "name": "Kristen Hudson",
+    "email": "kristen.hudson.26@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 3,
+    "current_active_tickets": 3,
+    "experience_score": 0.84,
+    "created_at": "2026-03-27T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000027",
+    "name": "Jonathan Owens",
+    "email": "jonathan.owens.27@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 2,
+    "current_active_tickets": 0,
+    "experience_score": 0.84,
+    "created_at": "2025-09-05T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000028",
+    "name": "Matthew Smith",
+    "email": "matthew.smith.28@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 3,
+    "current_active_tickets": 3,
+    "experience_score": 0.88,
+    "created_at": "2025-12-07T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000029",
+    "name": "Debra Fritz",
+    "email": "debra.fritz.29@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 5,
+    "current_active_tickets": 1,
+    "experience_score": 0.78,
+    "created_at": "2026-03-11T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000030",
+    "name": "Vinaya Sankaran",
+    "email": "vinaya.sankaran.30@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 4,
+    "current_active_tickets": 4,
+    "experience_score": 0.8,
+    "created_at": "2025-09-29T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000031",
+    "name": "Vasana Korpal",
+    "email": "vasana.korpal.31@supportops.internal",
+    "status": "ON_BREAK",
+    "max_concurrency": 4,
+    "current_active_tickets": 4,
+    "experience_score": 0.87,
+    "created_at": "2025-09-11T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000032",
+    "name": "Yadavi Prabhu",
+    "email": "yadavi.prabhu.32@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 3,
+    "current_active_tickets": 3,
+    "experience_score": 0.78,
+    "created_at": "2025-10-21T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000033",
+    "name": "Nidhi Nayar",
+    "email": "nidhi.nayar.33@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 3,
+    "current_active_tickets": 3,
+    "experience_score": 0.72,
+    "created_at": "2026-01-12T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000034",
+    "name": "Ikbal Hayre",
+    "email": "ikbal.hayre.34@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 2,
+    "current_active_tickets": 1,
+    "experience_score": 0.74,
+    "created_at": "2025-09-11T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000035",
+    "name": "Jagrati Raghavan",
+    "email": "jagrati.raghavan.35@supportops.internal",
+    "status": "INACTIVE",
+    "max_concurrency": 4,
+    "current_active_tickets": 4,
+    "experience_score": 0.85,
+    "created_at": "2026-03-08T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000036",
+    "name": "Lawrence Hernandez",
+    "email": "lawrence.hernandez.36@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 3,
+    "current_active_tickets": 3,
+    "experience_score": 0.74,
+    "created_at": "2026-01-30T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000037",
+    "name": "Tammie Rollins",
+    "email": "tammie.rollins.37@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 5,
+    "current_active_tickets": 3,
+    "experience_score": 0.93,
+    "created_at": "2026-03-04T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000038",
+    "name": "Urvashi Khanna",
+    "email": "urvashi.khanna.38@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 3,
+    "current_active_tickets": 3,
+    "experience_score": 0.7,
+    "created_at": "2025-10-26T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000039",
+    "name": "Panini Pingle",
+    "email": "panini.pingle.39@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 5,
+    "current_active_tickets": 2,
+    "experience_score": 0.69,
+    "created_at": "2025-10-20T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000040",
+    "name": "Gaurangi Mody",
+    "email": "gaurangi.mody.40@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 2,
+    "current_active_tickets": 2,
+    "experience_score": 0.99,
+    "created_at": "2026-01-09T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000041",
+    "name": "Gopal Setty",
+    "email": "gopal.setty.41@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 3,
+    "current_active_tickets": 3,
+    "experience_score": 0.8,
+    "created_at": "2026-01-25T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000042",
+    "name": "Jonathan Bhardwaj",
+    "email": "jonathan.bhardwaj.42@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 3,
+    "current_active_tickets": 3,
+    "experience_score": 0.72,
+    "created_at": "2025-08-30T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000043",
+    "name": "Natalie Woods",
+    "email": "natalie.woods.43@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 2,
+    "current_active_tickets": 2,
+    "experience_score": 0.95,
+    "created_at": "2026-06-26T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000044",
+    "name": "Antonio Walker",
+    "email": "antonio.walker.44@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 3,
+    "current_active_tickets": 3,
+    "experience_score": 0.84,
+    "created_at": "2026-02-20T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000045",
+    "name": "Lopa Vaidya",
+    "email": "lopa.vaidya.45@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 4,
+    "current_active_tickets": 4,
+    "experience_score": 0.71,
+    "created_at": "2026-04-23T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000046",
+    "name": "Jennifer Fitzgerald",
+    "email": "jennifer.fitzgerald.46@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 2,
+    "current_active_tickets": 0,
+    "experience_score": 0.78,
+    "created_at": "2025-09-25T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000047",
+    "name": "Gavin Borra",
+    "email": "gavin.borra.47@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 5,
+    "current_active_tickets": 2,
+    "experience_score": 0.91,
+    "created_at": "2026-05-20T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000048",
+    "name": "Ralph Hawkins",
+    "email": "ralph.hawkins.48@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 5,
+    "current_active_tickets": 5,
+    "experience_score": 0.9,
+    "created_at": "2025-09-03T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000049",
+    "name": "George Nicholson",
+    "email": "george.nicholson.49@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 5,
+    "current_active_tickets": 4,
+    "experience_score": 0.85,
+    "created_at": "2025-12-17T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000050",
+    "name": "Tina Ponce",
+    "email": "tina.ponce.50@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 4,
+    "current_active_tickets": 0,
+    "experience_score": 0.65,
+    "created_at": "2025-09-02T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000051",
+    "name": "Anamika Khurana",
+    "email": "anamika.khurana.51@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 3,
+    "current_active_tickets": 3,
+    "experience_score": 0.96,
+    "created_at": "2025-12-11T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000052",
+    "name": "Hunter Sandoval",
+    "email": "hunter.sandoval.52@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 2,
+    "current_active_tickets": 2,
+    "experience_score": 0.84,
+    "created_at": "2026-01-22T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000053",
+    "name": "Priya Gole",
+    "email": "priya.gole.53@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 5,
+    "current_active_tickets": 4,
+    "experience_score": 0.73,
+    "created_at": "2026-03-27T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000054",
+    "name": "Shaun Stewart",
+    "email": "shaun.stewart.54@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 4,
+    "current_active_tickets": 1,
+    "experience_score": 0.87,
+    "created_at": "2026-06-20T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000055",
+    "name": "Azad Iyer",
+    "email": "azad.iyer.55@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 5,
+    "current_active_tickets": 0,
+    "experience_score": 0.86,
+    "created_at": "2026-01-13T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000056",
+    "name": "Krishna Pandit",
+    "email": "krishna.pandit.56@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 2,
+    "current_active_tickets": 2,
+    "experience_score": 0.88,
+    "created_at": "2026-01-11T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000057",
+    "name": "Rodney Morgan",
+    "email": "rodney.morgan.57@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 5,
+    "current_active_tickets": 2,
+    "experience_score": 0.92,
+    "created_at": "2026-02-16T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000058",
+    "name": "Vasudha Chander",
+    "email": "vasudha.chander.58@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 4,
+    "current_active_tickets": 0,
+    "experience_score": 0.67,
+    "created_at": "2025-11-15T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000059",
+    "name": "Marc Chen",
+    "email": "marc.chen.59@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 4,
+    "current_active_tickets": 4,
+    "experience_score": 0.97,
+    "created_at": "2026-02-08T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000060",
+    "name": "Richard Wilson",
+    "email": "richard.wilson.60@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 5,
+    "current_active_tickets": 5,
+    "experience_score": 0.91,
+    "created_at": "2025-10-15T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000061",
+    "name": "Abigail Gentry",
+    "email": "abigail.gentry.61@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 2,
+    "current_active_tickets": 2,
+    "experience_score": 0.97,
+    "created_at": "2025-08-06T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000062",
+    "name": "Edwin Thomas",
+    "email": "edwin.thomas.62@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 5,
+    "current_active_tickets": 5,
+    "experience_score": 0.76,
+    "created_at": "2025-08-14T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000063",
+    "name": "Girindra Bhat",
+    "email": "girindra.bhat.63@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 5,
+    "current_active_tickets": 5,
+    "experience_score": 0.78,
+    "created_at": "2026-01-14T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000064",
+    "name": "Ashley Phillips",
+    "email": "ashley.phillips.64@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 2,
+    "current_active_tickets": 2,
+    "experience_score": 0.95,
+    "created_at": "2026-01-08T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000065",
+    "name": "Lopa Babu",
+    "email": "lopa.babu.65@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 5,
+    "current_active_tickets": 5,
+    "experience_score": 0.67,
+    "created_at": "2025-09-05T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000066",
+    "name": "Samuel Williams",
+    "email": "samuel.williams.66@supportops.internal",
+    "status": "ON_BREAK",
+    "max_concurrency": 2,
+    "current_active_tickets": 2,
+    "experience_score": 0.68,
+    "created_at": "2026-02-06T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000067",
+    "name": "Frank Brooks",
+    "email": "frank.brooks.67@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 4,
+    "current_active_tickets": 1,
+    "experience_score": 0.68,
+    "created_at": "2026-04-17T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000068",
+    "name": "Janaki Sridhar",
+    "email": "janaki.sridhar.68@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 5,
+    "current_active_tickets": 5,
+    "experience_score": 0.75,
+    "created_at": "2026-05-01T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000069",
+    "name": "Inaya Divan",
+    "email": "inaya.divan.69@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 5,
+    "current_active_tickets": 5,
+    "experience_score": 0.93,
+    "created_at": "2026-04-04T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000070",
+    "name": "Holly Hopkins",
+    "email": "holly.hopkins.70@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 4,
+    "current_active_tickets": 3,
+    "experience_score": 0.75,
+    "created_at": "2026-02-25T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000071",
+    "name": "Veer Mall",
+    "email": "veer.mall.71@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 4,
+    "current_active_tickets": 2,
+    "experience_score": 0.97,
+    "created_at": "2026-02-18T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000072",
+    "name": "Dayita Varkey",
+    "email": "dayita.varkey.72@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 3,
+    "current_active_tickets": 2,
+    "experience_score": 0.8,
+    "created_at": "2026-06-16T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000073",
+    "name": "Mitali Chander",
+    "email": "mitali.chander.73@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 3,
+    "current_active_tickets": 3,
+    "experience_score": 0.78,
+    "created_at": "2025-08-10T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000074",
+    "name": "Nihal Dara",
+    "email": "nihal.dara.74@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 3,
+    "current_active_tickets": 3,
+    "experience_score": 0.94,
+    "created_at": "2025-11-14T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000075",
+    "name": "Turvi Sachar",
+    "email": "turvi.sachar.75@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 4,
+    "current_active_tickets": 4,
+    "experience_score": 0.69,
+    "created_at": "2025-08-23T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000076",
+    "name": "Charles Mutti",
+    "email": "charles.mutti.76@supportops.internal",
+    "status": "ON_BREAK",
+    "max_concurrency": 2,
+    "current_active_tickets": 2,
+    "experience_score": 0.84,
+    "created_at": "2026-06-25T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000077",
+    "name": "Mark Ramirez",
+    "email": "mark.ramirez.77@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 5,
+    "current_active_tickets": 2,
+    "experience_score": 0.69,
+    "created_at": "2026-02-20T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000078",
+    "name": "Sanya Varkey",
+    "email": "sanya.varkey.78@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 4,
+    "current_active_tickets": 4,
+    "experience_score": 0.83,
+    "created_at": "2026-01-23T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000079",
+    "name": "Caroline Todd",
+    "email": "caroline.todd.79@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 2,
+    "current_active_tickets": 2,
+    "experience_score": 0.88,
+    "created_at": "2026-01-20T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000080",
+    "name": "Patrick Martinez",
+    "email": "patrick.martinez.80@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 3,
+    "current_active_tickets": 3,
+    "experience_score": 0.73,
+    "created_at": "2026-06-04T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000081",
+    "name": "Ekiya Kara",
+    "email": "ekiya.kara.81@supportops.internal",
+    "status": "INACTIVE",
+    "max_concurrency": 4,
+    "current_active_tickets": 4,
+    "experience_score": 0.7,
+    "created_at": "2025-10-08T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000082",
+    "name": "Brijesh Sinha",
+    "email": "brijesh.sinha.82@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 5,
+    "current_active_tickets": 3,
+    "experience_score": 0.98,
+    "created_at": "2025-09-18T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000083",
+    "name": "Bhavna Bajwa",
+    "email": "bhavna.bajwa.83@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 5,
+    "current_active_tickets": 5,
+    "experience_score": 0.95,
+    "created_at": "2026-04-25T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000084",
+    "name": "Adya Chakraborty",
+    "email": "adya.chakraborty.84@supportops.internal",
+    "status": "ON_BREAK",
+    "max_concurrency": 5,
+    "current_active_tickets": 3,
+    "experience_score": 0.93,
+    "created_at": "2026-01-12T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000085",
+    "name": "Luke Sethi",
+    "email": "luke.sethi.85@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 2,
+    "current_active_tickets": 2,
+    "experience_score": 0.8,
+    "created_at": "2026-04-18T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000086",
+    "name": "Eiravati Deshpande",
+    "email": "eiravati.deshpande.86@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 5,
+    "current_active_tickets": 5,
+    "experience_score": 0.77,
+    "created_at": "2025-09-25T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000087",
+    "name": "Faqid Dube",
+    "email": "faqid.dube.87@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 5,
+    "current_active_tickets": 5,
+    "experience_score": 0.92,
+    "created_at": "2025-09-20T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000088",
+    "name": "Megha Barad",
+    "email": "megha.barad.88@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 5,
+    "current_active_tickets": 5,
+    "experience_score": 0.91,
+    "created_at": "2026-05-24T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000089",
+    "name": "Megan Dunlap",
+    "email": "megan.dunlap.89@supportops.internal",
+    "status": "ON_BREAK",
+    "max_concurrency": 3,
+    "current_active_tickets": 3,
+    "experience_score": 0.82,
+    "created_at": "2026-01-04T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000090",
+    "name": "Yug Patla",
+    "email": "yug.patla.90@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 5,
+    "current_active_tickets": 4,
+    "experience_score": 0.94,
+    "created_at": "2025-12-09T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000091",
+    "name": "Christopher Ross",
+    "email": "christopher.ross.91@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 4,
+    "current_active_tickets": 4,
+    "experience_score": 0.8,
+    "created_at": "2025-10-31T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000092",
+    "name": "Justin Hendricks",
+    "email": "justin.hendricks.92@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 3,
+    "current_active_tickets": 3,
+    "experience_score": 0.96,
+    "created_at": "2026-05-28T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000093",
+    "name": "Bhavna Anne",
+    "email": "bhavna.anne.93@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 4,
+    "current_active_tickets": 4,
+    "experience_score": 0.75,
+    "created_at": "2026-03-12T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000094",
+    "name": "Amrita Devi",
+    "email": "amrita.devi.94@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 4,
+    "current_active_tickets": 2,
+    "experience_score": 0.94,
+    "created_at": "2026-03-24T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000095",
+    "name": "Christina Stewart",
+    "email": "christina.stewart.95@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 5,
+    "current_active_tickets": 5,
+    "experience_score": 0.69,
+    "created_at": "2025-12-30T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000096",
+    "name": "Anthony Bullock",
+    "email": "anthony.bullock.96@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 4,
+    "current_active_tickets": 0,
+    "experience_score": 0.96,
+    "created_at": "2026-05-09T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000097",
+    "name": "Joseph May",
+    "email": "joseph.may.97@supportops.internal",
+    "status": "ON_BREAK",
+    "max_concurrency": 5,
+    "current_active_tickets": 5,
+    "experience_score": 0.96,
+    "created_at": "2026-03-07T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000098",
+    "name": "Sierra Mccoy",
+    "email": "sierra.mccoy.98@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 4,
+    "current_active_tickets": 4,
+    "experience_score": 0.8,
+    "created_at": "2026-01-26T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000099",
+    "name": "Maanav Sura",
+    "email": "maanav.sura.99@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 5,
+    "current_active_tickets": 5,
+    "experience_score": 0.77,
+    "created_at": "2026-05-06T09:00:00+00:00"
+  },
+  {
+    "agent_id": "AGT-000100",
+    "name": "Varsha Patla",
+    "email": "varsha.patla.100@supportops.internal",
+    "status": "ACTIVE",
+    "max_concurrency": 4,
+    "current_active_tickets": 4,
+    "experience_score": 0.81,
+    "created_at": "2026-05-16T09:00:00+00:00"
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "anomaly_id": "GT-ANOM-001-TKT-2026-000014",
+    "ticket_id": "TKT-2026-000014",
+    "agent_id": "AGT-000001",
+    "category": "CAPACITY_VIOLATION",
+    "severity": "HIGH",
+    "description": "Agent AGT-000001 assigned ticket despite active ticket count (7) exceeding limit (4).",
+    "expected_behavior": "Agent must never receive assignments exceeding max concurrency.",
+    "actual_behavior": "Active tickets: 7 vs limit 4."
+  },
+  {
+    "anomaly_id": "GT-ANOM-002-TKT-2026-000028",
+    "ticket_id": "TKT-2026-000028",
+    "category": "CALENDAR_MISMATCH",
+    "severity": "MEDIUM",
+    "description": "Phone ticket TKT-2026-000028 assigned 360 min SLA, completely ignoring synchronous phone channel policies.",
+    "expected_behavior": "Phone tickets must enforce synchronous immediate SLA (< 15 mins).",
+    "actual_behavior": "Assigned async 360 mins deadline."
+  },
+  {
+    "anomaly_id": "GT-ANOM-003-TKT-2026-000042",
+    "ticket_id": "TKT-2026-000042",
+    "category": "HISTORY_LOSS",
+    "severity": "HIGH",
+    "description": "Ticket TKT-2026-000042 was reopened but its previous thread messages and assignment events were wiped.",
+    "expected_behavior": "Reopened tickets must retain complete chronological message and event audit trail.",
+    "actual_behavior": "Prior historical records truncated."
+  },
+  {
+    "anomaly_id": "GT-ANOM-004-TKT-2026-000056",
+    "ticket_id": "TKT-2026-000056",
+    "category": "TRANSFER_LOOP",
+    "severity": "HIGH",
+    "description": "Ticket TKT-2026-000056 caught in cyclic ping-pong transfer between AGT-000024 and AGT-000002.",
+    "expected_behavior": "Reassignments must advance ticket towards resolution; cyclic bounce is an anomaly.",
+    "actual_behavior": "Cyclic transfer pattern: AGT-000024 -> AGT-000002 -> AGT-000024."
+  },
+  {
+    "anomaly_id": "GT-ANOM-005-TKT-2026-000070",
+    "ticket_id": "TKT-2026-000070",
+    "category": "SAFETY_VIOLATION",
+    "severity": "CRITICAL",
+    "description": "Account security breach ticket downgraded to P4, violating deterministic safety rule.",
+    "expected_behavior": "Intent ACCOUNT_SECURITY must strictly enforce P1 priority.",
+    "actual_behavior": "Priority set to P4."
+  }
+]

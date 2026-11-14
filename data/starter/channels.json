@@ -1,0 +1,20 @@
+[
+  {
+    "channel_id": "email",
+    "name": "Email Ingestion",
+    "default_sla_factor": 1.0,
+    "is_active": true
+  },
+  {
+    "channel_id": "chat",
+    "name": "Live Chat",
+    "default_sla_factor": 0.5,
+    "is_active": true
+  },
+  {
+    "channel_id": "phone",
+    "name": "Voice / Phone",
+    "default_sla_factor": 0.2,
+    "is_active": true
+  }
+]

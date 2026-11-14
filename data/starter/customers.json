@@ -1,0 +1,1602 @@
+[
+  {
+    "customer_id": "CUS-000001",
+    "name": "Ramesh Smith",
+    "email": "ramesh.smith1@clientcorp.com",
+    "phone": "+919897694235",
+    "tier": "VIP",
+    "created_at": "2026-03-06T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000002",
+    "name": "Amit Harris",
+    "email": "amit.harris2@clientcorp.com",
+    "phone": "+919890549241",
+    "tier": "STANDARD",
+    "created_at": "2026-06-03T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000003",
+    "name": "David Harris",
+    "email": "david.harris3@clientcorp.com",
+    "phone": "+919861162618",
+    "tier": "STANDARD",
+    "created_at": "2026-07-04T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000004",
+    "name": "John Smith",
+    "email": "john.smith4@clientcorp.com",
+    "phone": "+919861175978",
+    "tier": "STANDARD",
+    "created_at": "2026-05-01T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000005",
+    "name": "Venkat Martin",
+    "email": "venkat.martin5@clientcorp.com",
+    "phone": "+919836730167",
+    "tier": "STANDARD",
+    "created_at": "2026-06-18T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000006",
+    "name": "Sarah Jackson",
+    "email": "sarah.jackson6@clientcorp.com",
+    "phone": "+919811057681",
+    "tier": "STANDARD",
+    "created_at": "2026-03-31T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000007",
+    "name": "Samantha Davis",
+    "email": "samantha.davis7@clientcorp.com",
+    "phone": "+919857783411",
+    "tier": "STANDARD",
+    "created_at": "2026-04-08T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000008",
+    "name": "Michael Jones",
+    "email": "michael.jones8@clientcorp.com",
+    "phone": "+919846444887",
+    "tier": "STANDARD",
+    "created_at": "2026-02-22T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000009",
+    "name": "Amit White",
+    "email": "amit.white9@clientcorp.com",
+    "phone": "+919845841724",
+    "tier": "VIP",
+    "created_at": "2026-07-02T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000010",
+    "name": "James Williams",
+    "email": "james.williams10@clientcorp.com",
+    "phone": "+919829181852",
+    "tier": "VIP",
+    "created_at": "2026-04-20T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000011",
+    "name": "Daniel Wilson",
+    "email": "daniel.wilson11@clientcorp.com",
+    "phone": "+919830217066",
+    "tier": "STANDARD",
+    "created_at": "2026-05-26T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000012",
+    "name": "Daniel Jackson",
+    "email": "daniel.jackson12@clientcorp.com",
+    "phone": "+919818624867",
+    "tier": "STANDARD",
+    "created_at": "2026-03-25T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000013",
+    "name": "Geeta Williams",
+    "email": "geeta.williams13@clientcorp.com",
+    "phone": "+919828543556",
+    "tier": "VIP",
+    "created_at": "2026-07-17T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000014",
+    "name": "James Thomas",
+    "email": "james.thomas14@clientcorp.com",
+    "phone": "+919845973583",
+    "tier": "STANDARD",
+    "created_at": "2026-02-21T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000015",
+    "name": "Emily Anderson",
+    "email": "emily.anderson15@clientcorp.com",
+    "phone": "+919872055357",
+    "tier": "VIP",
+    "created_at": "2026-07-17T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000016",
+    "name": "Samantha Anderson",
+    "email": "samantha.anderson16@clientcorp.com",
+    "phone": "+919814100906",
+    "tier": "STANDARD",
+    "created_at": "2026-05-18T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000017",
+    "name": "Sarah Williams",
+    "email": "sarah.williams17@clientcorp.com",
+    "phone": "+919814664748",
+    "tier": "STANDARD",
+    "created_at": "2026-04-18T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000018",
+    "name": "John Anderson",
+    "email": "john.anderson18@clientcorp.com",
+    "phone": "+919846101024",
+    "tier": "VIP",
+    "created_at": "2026-03-31T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000019",
+    "name": "Venkat Harris",
+    "email": "venkat.harris19@clientcorp.com",
+    "phone": "+919882544723",
+    "tier": "STANDARD",
+    "created_at": "2026-07-14T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000020",
+    "name": "Lakshmi Smith",
+    "email": "lakshmi.smith20@clientcorp.com",
+    "phone": "+919845019667",
+    "tier": "STANDARD",
+    "created_at": "2026-07-01T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000021",
+    "name": "Emily Jones",
+    "email": "emily.jones21@clientcorp.com",
+    "phone": "+919831442884",
+    "tier": "STANDARD",
+    "created_at": "2026-04-30T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000022",
+    "name": "Daniel Smith",
+    "email": "daniel.smith22@clientcorp.com",
+    "phone": "+919843599378",
+    "tier": "STANDARD",
+    "created_at": "2026-03-14T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000023",
+    "name": "Sunita Taylor",
+    "email": "sunita.taylor23@clientcorp.com",
+    "phone": "+919814342053",
+    "tier": "VIP",
+    "created_at": "2026-03-23T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000024",
+    "name": "Emily Harris",
+    "email": "emily.harris24@clientcorp.com",
+    "phone": "+919834394327",
+    "tier": "STANDARD",
+    "created_at": "2026-06-24T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000025",
+    "name": "Samantha Brown",
+    "email": "samantha.brown25@clientcorp.com",
+    "phone": "+919834223744",
+    "tier": "STANDARD",
+    "created_at": "2026-06-02T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000026",
+    "name": "Daniel Davis",
+    "email": "daniel.davis26@clientcorp.com",
+    "phone": "+919827331511",
+    "tier": "STANDARD",
+    "created_at": "2026-05-24T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000027",
+    "name": "James Jackson",
+    "email": "james.jackson27@clientcorp.com",
+    "phone": "+919828528609",
+    "tier": "VIP",
+    "created_at": "2026-03-28T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000028",
+    "name": "Laura Martin",
+    "email": "laura.martin28@clientcorp.com",
+    "phone": "+919857131777",
+    "tier": "STANDARD",
+    "created_at": "2026-06-25T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000029",
+    "name": "Michael Martin",
+    "email": "michael.martin29@clientcorp.com",
+    "phone": "+919881233238",
+    "tier": "STANDARD",
+    "created_at": "2026-03-16T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000030",
+    "name": "Amit Wilson",
+    "email": "amit.wilson30@clientcorp.com",
+    "phone": "+919813299747",
+    "tier": "VIP",
+    "created_at": "2026-03-11T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000031",
+    "name": "John Davis",
+    "email": "john.davis31@clientcorp.com",
+    "phone": "+919813666005",
+    "tier": "STANDARD",
+    "created_at": "2026-05-01T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000032",
+    "name": "Geeta Martin",
+    "email": "geeta.martin32@clientcorp.com",
+    "phone": "+919868215642",
+    "tier": "STANDARD",
+    "created_at": "2026-05-04T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000033",
+    "name": "Sunita Miller",
+    "email": "sunita.miller33@clientcorp.com",
+    "phone": "+919867762193",
+    "tier": "STANDARD",
+    "created_at": "2026-03-13T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000034",
+    "name": "Sunita Jackson",
+    "email": "sunita.jackson34@clientcorp.com",
+    "phone": "+919890709217",
+    "tier": "STANDARD",
+    "created_at": "2026-06-14T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000035",
+    "name": "Ramesh White",
+    "email": "ramesh.white35@clientcorp.com",
+    "phone": "+919896633369",
+    "tier": "STANDARD",
+    "created_at": "2026-06-09T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000036",
+    "name": "Venkat Wilson",
+    "email": "venkat.wilson36@clientcorp.com",
+    "phone": "+919892994028",
+    "tier": "STANDARD",
+    "created_at": "2026-05-04T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000037",
+    "name": "Venkat Davis",
+    "email": "venkat.davis37@clientcorp.com",
+    "phone": "+919859162987",
+    "tier": "STANDARD",
+    "created_at": "2026-03-30T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000038",
+    "name": "Ramesh Thomas",
+    "email": "ramesh.thomas38@clientcorp.com",
+    "phone": "+919828613230",
+    "tier": "STANDARD",
+    "created_at": "2026-06-19T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000039",
+    "name": "Venkat Harris",
+    "email": "venkat.harris39@clientcorp.com",
+    "phone": "+919888816842",
+    "tier": "STANDARD",
+    "created_at": "2026-06-01T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000040",
+    "name": "Michael Jackson",
+    "email": "michael.jackson40@clientcorp.com",
+    "phone": "+919899053423",
+    "tier": "STANDARD",
+    "created_at": "2026-04-01T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000041",
+    "name": "James Wilson",
+    "email": "james.wilson41@clientcorp.com",
+    "phone": "+919855828032",
+    "tier": "STANDARD",
+    "created_at": "2026-07-11T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000042",
+    "name": "Sunita Martin",
+    "email": "sunita.martin42@clientcorp.com",
+    "phone": "+919863878823",
+    "tier": "STANDARD",
+    "created_at": "2026-06-19T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000043",
+    "name": "Geeta Johnson",
+    "email": "geeta.johnson43@clientcorp.com",
+    "phone": "+919823823801",
+    "tier": "VIP",
+    "created_at": "2026-03-14T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000044",
+    "name": "Michael Harris",
+    "email": "michael.harris44@clientcorp.com",
+    "phone": "+919845645766",
+    "tier": "STANDARD",
+    "created_at": "2026-03-02T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000045",
+    "name": "Sarah Smith",
+    "email": "sarah.smith45@clientcorp.com",
+    "phone": "+919843943676",
+    "tier": "STANDARD",
+    "created_at": "2026-03-05T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000046",
+    "name": "Geeta Jones",
+    "email": "geeta.jones46@clientcorp.com",
+    "phone": "+919825846127",
+    "tier": "STANDARD",
+    "created_at": "2026-02-12T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000047",
+    "name": "Ramesh Miller",
+    "email": "ramesh.miller47@clientcorp.com",
+    "phone": "+919858225001",
+    "tier": "STANDARD",
+    "created_at": "2026-03-27T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000048",
+    "name": "Lakshmi Brown",
+    "email": "lakshmi.brown48@clientcorp.com",
+    "phone": "+919820448658",
+    "tier": "STANDARD",
+    "created_at": "2026-04-16T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000049",
+    "name": "Geeta Jones",
+    "email": "geeta.jones49@clientcorp.com",
+    "phone": "+919884849064",
+    "tier": "VIP",
+    "created_at": "2026-02-27T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000050",
+    "name": "Sunita Wilson",
+    "email": "sunita.wilson50@clientcorp.com",
+    "phone": "+919848276739",
+    "tier": "STANDARD",
+    "created_at": "2026-02-26T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000051",
+    "name": "Ramesh Miller",
+    "email": "ramesh.miller51@clientcorp.com",
+    "phone": "+919885405103",
+    "tier": "VIP",
+    "created_at": "2026-05-22T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000052",
+    "name": "Amit Williams",
+    "email": "amit.williams52@clientcorp.com",
+    "phone": "+919864470774",
+    "tier": "STANDARD",
+    "created_at": "2026-06-22T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000053",
+    "name": "Daniel Thomas",
+    "email": "daniel.thomas53@clientcorp.com",
+    "phone": "+919840921473",
+    "tier": "STANDARD",
+    "created_at": "2026-02-20T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000054",
+    "name": "Laura Johnson",
+    "email": "laura.johnson54@clientcorp.com",
+    "phone": "+919816283743",
+    "tier": "STANDARD",
+    "created_at": "2026-07-19T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000055",
+    "name": "Emily Taylor",
+    "email": "emily.taylor55@clientcorp.com",
+    "phone": "+919886851226",
+    "tier": "ENTERPRISE",
+    "created_at": "2026-03-02T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000056",
+    "name": "Laura Martin",
+    "email": "laura.martin56@clientcorp.com",
+    "phone": "+919887824730",
+    "tier": "VIP",
+    "created_at": "2026-02-08T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000057",
+    "name": "Jessica Harris",
+    "email": "jessica.harris57@clientcorp.com",
+    "phone": "+919870692214",
+    "tier": "STANDARD",
+    "created_at": "2026-06-12T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000058",
+    "name": "John Brown",
+    "email": "john.brown58@clientcorp.com",
+    "phone": "+919832558171",
+    "tier": "STANDARD",
+    "created_at": "2026-02-21T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000059",
+    "name": "Ramesh White",
+    "email": "ramesh.white59@clientcorp.com",
+    "phone": "+919887937128",
+    "tier": "STANDARD",
+    "created_at": "2026-05-31T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000060",
+    "name": "James Miller",
+    "email": "james.miller60@clientcorp.com",
+    "phone": "+919885778144",
+    "tier": "STANDARD",
+    "created_at": "2026-04-02T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000061",
+    "name": "Jessica Davis",
+    "email": "jessica.davis61@clientcorp.com",
+    "phone": "+919847425944",
+    "tier": "STANDARD",
+    "created_at": "2026-05-06T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000062",
+    "name": "Michael Miller",
+    "email": "michael.miller62@clientcorp.com",
+    "phone": "+919834151313",
+    "tier": "ENTERPRISE",
+    "created_at": "2026-07-15T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000063",
+    "name": "Laura Thomas",
+    "email": "laura.thomas63@clientcorp.com",
+    "phone": "+919881346914",
+    "tier": "STANDARD",
+    "created_at": "2026-04-18T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000064",
+    "name": "Michael Harris",
+    "email": "michael.harris64@clientcorp.com",
+    "phone": "+919824071464",
+    "tier": "STANDARD",
+    "created_at": "2026-04-03T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000065",
+    "name": "Sunita Smith",
+    "email": "sunita.smith65@clientcorp.com",
+    "phone": "+919820557671",
+    "tier": "STANDARD",
+    "created_at": "2026-06-27T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000066",
+    "name": "Michael Smith",
+    "email": "michael.smith66@clientcorp.com",
+    "phone": "+919824283305",
+    "tier": "STANDARD",
+    "created_at": "2026-07-21T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000067",
+    "name": "Emily Johnson",
+    "email": "emily.johnson67@clientcorp.com",
+    "phone": "+919814936332",
+    "tier": "VIP",
+    "created_at": "2026-06-24T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000068",
+    "name": "John Davis",
+    "email": "john.davis68@clientcorp.com",
+    "phone": "+919866320725",
+    "tier": "STANDARD",
+    "created_at": "2026-02-07T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000069",
+    "name": "Jessica Thomas",
+    "email": "jessica.thomas69@clientcorp.com",
+    "phone": "+919843829731",
+    "tier": "STANDARD",
+    "created_at": "2026-02-17T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000070",
+    "name": "Sarah Martin",
+    "email": "sarah.martin70@clientcorp.com",
+    "phone": "+919870874913",
+    "tier": "STANDARD",
+    "created_at": "2026-04-12T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000071",
+    "name": "Michael Anderson",
+    "email": "michael.anderson71@clientcorp.com",
+    "phone": "+919874679089",
+    "tier": "VIP",
+    "created_at": "2026-06-18T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000072",
+    "name": "Lakshmi Jones",
+    "email": "lakshmi.jones72@clientcorp.com",
+    "phone": "+919823057528",
+    "tier": "STANDARD",
+    "created_at": "2026-04-30T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000073",
+    "name": "Venkat Wilson",
+    "email": "venkat.wilson73@clientcorp.com",
+    "phone": "+919873509808",
+    "tier": "ENTERPRISE",
+    "created_at": "2026-04-09T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000074",
+    "name": "Sarah Wilson",
+    "email": "sarah.wilson74@clientcorp.com",
+    "phone": "+919814576762",
+    "tier": "VIP",
+    "created_at": "2026-02-02T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000075",
+    "name": "David Taylor",
+    "email": "david.taylor75@clientcorp.com",
+    "phone": "+919849148656",
+    "tier": "STANDARD",
+    "created_at": "2026-06-20T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000076",
+    "name": "Geeta Thomas",
+    "email": "geeta.thomas76@clientcorp.com",
+    "phone": "+919813525869",
+    "tier": "STANDARD",
+    "created_at": "2026-02-06T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000077",
+    "name": "Daniel Wilson",
+    "email": "daniel.wilson77@clientcorp.com",
+    "phone": "+919816337657",
+    "tier": "VIP",
+    "created_at": "2026-03-24T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000078",
+    "name": "Lakshmi Taylor",
+    "email": "lakshmi.taylor78@clientcorp.com",
+    "phone": "+919896873714",
+    "tier": "STANDARD",
+    "created_at": "2026-03-30T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000079",
+    "name": "Venkat Harris",
+    "email": "venkat.harris79@clientcorp.com",
+    "phone": "+919832524372",
+    "tier": "STANDARD",
+    "created_at": "2026-02-11T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000080",
+    "name": "John Anderson",
+    "email": "john.anderson80@clientcorp.com",
+    "phone": "+919825825439",
+    "tier": "STANDARD",
+    "created_at": "2026-06-02T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000081",
+    "name": "Daniel Harris",
+    "email": "daniel.harris81@clientcorp.com",
+    "phone": "+919885315625",
+    "tier": "STANDARD",
+    "created_at": "2026-03-05T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000082",
+    "name": "Michael Taylor",
+    "email": "michael.taylor82@clientcorp.com",
+    "phone": "+919860101039",
+    "tier": "STANDARD",
+    "created_at": "2026-05-04T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000083",
+    "name": "Sunita Martin",
+    "email": "sunita.martin83@clientcorp.com",
+    "phone": "+919890179872",
+    "tier": "VIP",
+    "created_at": "2026-03-04T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000084",
+    "name": "Laura Johnson",
+    "email": "laura.johnson84@clientcorp.com",
+    "phone": "+919821314821",
+    "tier": "STANDARD",
+    "created_at": "2026-06-10T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000085",
+    "name": "Lakshmi Taylor",
+    "email": "lakshmi.taylor85@clientcorp.com",
+    "phone": "+919887050942",
+    "tier": "STANDARD",
+    "created_at": "2026-04-19T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000086",
+    "name": "Laura Jones",
+    "email": "laura.jones86@clientcorp.com",
+    "phone": "+919828048184",
+    "tier": "STANDARD",
+    "created_at": "2026-06-22T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000087",
+    "name": "Laura Davis",
+    "email": "laura.davis87@clientcorp.com",
+    "phone": "+919819725646",
+    "tier": "STANDARD",
+    "created_at": "2026-02-24T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000088",
+    "name": "Lakshmi Taylor",
+    "email": "lakshmi.taylor88@clientcorp.com",
+    "phone": "+919858987972",
+    "tier": "STANDARD",
+    "created_at": "2026-07-19T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000089",
+    "name": "Venkat Brown",
+    "email": "venkat.brown89@clientcorp.com",
+    "phone": "+919880981920",
+    "tier": "STANDARD",
+    "created_at": "2026-04-06T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000090",
+    "name": "John Thomas",
+    "email": "john.thomas90@clientcorp.com",
+    "phone": "+919880130388",
+    "tier": "STANDARD",
+    "created_at": "2026-02-25T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000091",
+    "name": "Emily Jackson",
+    "email": "emily.jackson91@clientcorp.com",
+    "phone": "+919830848538",
+    "tier": "VIP",
+    "created_at": "2026-06-27T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000092",
+    "name": "Venkat Brown",
+    "email": "venkat.brown92@clientcorp.com",
+    "phone": "+919876621017",
+    "tier": "STANDARD",
+    "created_at": "2026-04-01T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000093",
+    "name": "Lakshmi Wilson",
+    "email": "lakshmi.wilson93@clientcorp.com",
+    "phone": "+919828065443",
+    "tier": "STANDARD",
+    "created_at": "2026-07-09T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000094",
+    "name": "Ramesh Harris",
+    "email": "ramesh.harris94@clientcorp.com",
+    "phone": "+919856967802",
+    "tier": "VIP",
+    "created_at": "2026-05-29T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000095",
+    "name": "Geeta Thomas",
+    "email": "geeta.thomas95@clientcorp.com",
+    "phone": "+919878580651",
+    "tier": "VIP",
+    "created_at": "2026-03-10T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000096",
+    "name": "Jessica Johnson",
+    "email": "jessica.johnson96@clientcorp.com",
+    "phone": "+919835441429",
+    "tier": "ENTERPRISE",
+    "created_at": "2026-03-02T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000097",
+    "name": "Sunita Brown",
+    "email": "sunita.brown97@clientcorp.com",
+    "phone": "+919832433991",
+    "tier": "STANDARD",
+    "created_at": "2026-04-01T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000098",
+    "name": "Sarah Williams",
+    "email": "sarah.williams98@clientcorp.com",
+    "phone": "+919856102021",
+    "tier": "STANDARD",
+    "created_at": "2026-06-15T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000099",
+    "name": "Daniel Williams",
+    "email": "daniel.williams99@clientcorp.com",
+    "phone": "+919897026677",
+    "tier": "STANDARD",
+    "created_at": "2026-02-06T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000100",
+    "name": "Venkat Johnson",
+    "email": "venkat.johnson100@clientcorp.com",
+    "phone": "+919813388860",
+    "tier": "STANDARD",
+    "created_at": "2026-05-12T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000101",
+    "name": "John Brown",
+    "email": "john.brown101@clientcorp.com",
+    "phone": "+919839918415",
+    "tier": "VIP",
+    "created_at": "2026-03-08T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000102",
+    "name": "Emily Wilson",
+    "email": "emily.wilson102@clientcorp.com",
+    "phone": "+919845487246",
+    "tier": "STANDARD",
+    "created_at": "2026-05-08T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000103",
+    "name": "Geeta Taylor",
+    "email": "geeta.taylor103@clientcorp.com",
+    "phone": "+919836769008",
+    "tier": "VIP",
+    "created_at": "2026-04-20T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000104",
+    "name": "David White",
+    "email": "david.white104@clientcorp.com",
+    "phone": "+919855456154",
+    "tier": "STANDARD",
+    "created_at": "2026-03-15T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000105",
+    "name": "John Johnson",
+    "email": "john.johnson105@clientcorp.com",
+    "phone": "+919885875293",
+    "tier": "STANDARD",
+    "created_at": "2026-03-10T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000106",
+    "name": "Ramesh Thomas",
+    "email": "ramesh.thomas106@clientcorp.com",
+    "phone": "+919825751516",
+    "tier": "STANDARD",
+    "created_at": "2026-06-19T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000107",
+    "name": "Geeta Martin",
+    "email": "geeta.martin107@clientcorp.com",
+    "phone": "+919869326069",
+    "tier": "VIP",
+    "created_at": "2026-07-06T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000108",
+    "name": "Sarah Williams",
+    "email": "sarah.williams108@clientcorp.com",
+    "phone": "+919897356248",
+    "tier": "STANDARD",
+    "created_at": "2026-04-11T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000109",
+    "name": "Sunita Taylor",
+    "email": "sunita.taylor109@clientcorp.com",
+    "phone": "+919889250574",
+    "tier": "STANDARD",
+    "created_at": "2026-02-19T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000110",
+    "name": "Venkat Anderson",
+    "email": "venkat.anderson110@clientcorp.com",
+    "phone": "+919897401541",
+    "tier": "STANDARD",
+    "created_at": "2026-06-20T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000111",
+    "name": "Ramesh Johnson",
+    "email": "ramesh.johnson111@clientcorp.com",
+    "phone": "+919859208090",
+    "tier": "STANDARD",
+    "created_at": "2026-03-23T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000112",
+    "name": "Michael White",
+    "email": "michael.white112@clientcorp.com",
+    "phone": "+919830912900",
+    "tier": "ENTERPRISE",
+    "created_at": "2026-03-12T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000113",
+    "name": "Michael Thomas",
+    "email": "michael.thomas113@clientcorp.com",
+    "phone": "+919821845566",
+    "tier": "STANDARD",
+    "created_at": "2026-04-26T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000114",
+    "name": "Lakshmi Taylor",
+    "email": "lakshmi.taylor114@clientcorp.com",
+    "phone": "+919851838925",
+    "tier": "VIP",
+    "created_at": "2026-02-27T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000115",
+    "name": "Amit Thomas",
+    "email": "amit.thomas115@clientcorp.com",
+    "phone": "+919861883367",
+    "tier": "VIP",
+    "created_at": "2026-06-07T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000116",
+    "name": "Laura Taylor",
+    "email": "laura.taylor116@clientcorp.com",
+    "phone": "+919828719525",
+    "tier": "VIP",
+    "created_at": "2026-03-26T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000117",
+    "name": "Emily White",
+    "email": "emily.white117@clientcorp.com",
+    "phone": "+919894349172",
+    "tier": "STANDARD",
+    "created_at": "2026-06-04T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000118",
+    "name": "David Brown",
+    "email": "david.brown118@clientcorp.com",
+    "phone": "+919876567461",
+    "tier": "VIP",
+    "created_at": "2026-06-03T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000119",
+    "name": "Ramesh Davis",
+    "email": "ramesh.davis119@clientcorp.com",
+    "phone": "+919820386399",
+    "tier": "STANDARD",
+    "created_at": "2026-02-19T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000120",
+    "name": "Venkat Thomas",
+    "email": "venkat.thomas120@clientcorp.com",
+    "phone": "+919875771317",
+    "tier": "STANDARD",
+    "created_at": "2026-05-26T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000121",
+    "name": "Lakshmi Brown",
+    "email": "lakshmi.brown121@clientcorp.com",
+    "phone": "+919811641895",
+    "tier": "STANDARD",
+    "created_at": "2026-04-13T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000122",
+    "name": "Geeta Miller",
+    "email": "geeta.miller122@clientcorp.com",
+    "phone": "+919827524611",
+    "tier": "VIP",
+    "created_at": "2026-03-30T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000123",
+    "name": "Sarah Harris",
+    "email": "sarah.harris123@clientcorp.com",
+    "phone": "+919842345003",
+    "tier": "STANDARD",
+    "created_at": "2026-02-17T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000124",
+    "name": "Samantha Brown",
+    "email": "samantha.brown124@clientcorp.com",
+    "phone": "+919896127631",
+    "tier": "ENTERPRISE",
+    "created_at": "2026-02-03T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000125",
+    "name": "Laura White",
+    "email": "laura.white125@clientcorp.com",
+    "phone": "+919850487827",
+    "tier": "VIP",
+    "created_at": "2026-05-09T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000126",
+    "name": "Amit Jackson",
+    "email": "amit.jackson126@clientcorp.com",
+    "phone": "+919833365532",
+    "tier": "STANDARD",
+    "created_at": "2026-03-14T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000127",
+    "name": "John Davis",
+    "email": "john.davis127@clientcorp.com",
+    "phone": "+919878301976",
+    "tier": "STANDARD",
+    "created_at": "2026-02-04T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000128",
+    "name": "Emily Brown",
+    "email": "emily.brown128@clientcorp.com",
+    "phone": "+919847058362",
+    "tier": "STANDARD",
+    "created_at": "2026-03-07T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000129",
+    "name": "Daniel White",
+    "email": "daniel.white129@clientcorp.com",
+    "phone": "+919841711159",
+    "tier": "VIP",
+    "created_at": "2026-04-13T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000130",
+    "name": "Lakshmi Martin",
+    "email": "lakshmi.martin130@clientcorp.com",
+    "phone": "+919819966003",
+    "tier": "STANDARD",
+    "created_at": "2026-03-14T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000131",
+    "name": "Ramesh Jones",
+    "email": "ramesh.jones131@clientcorp.com",
+    "phone": "+919887270342",
+    "tier": "STANDARD",
+    "created_at": "2026-07-03T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000132",
+    "name": "Lakshmi Thomas",
+    "email": "lakshmi.thomas132@clientcorp.com",
+    "phone": "+919816113386",
+    "tier": "STANDARD",
+    "created_at": "2026-04-11T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000133",
+    "name": "James Smith",
+    "email": "james.smith133@clientcorp.com",
+    "phone": "+919880383279",
+    "tier": "VIP",
+    "created_at": "2026-03-25T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000134",
+    "name": "Venkat Davis",
+    "email": "venkat.davis134@clientcorp.com",
+    "phone": "+919823049509",
+    "tier": "STANDARD",
+    "created_at": "2026-04-17T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000135",
+    "name": "Venkat Johnson",
+    "email": "venkat.johnson135@clientcorp.com",
+    "phone": "+919846594681",
+    "tier": "STANDARD",
+    "created_at": "2026-04-27T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000136",
+    "name": "Michael Wilson",
+    "email": "michael.wilson136@clientcorp.com",
+    "phone": "+919884590670",
+    "tier": "STANDARD",
+    "created_at": "2026-05-22T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000137",
+    "name": "Sunita Brown",
+    "email": "sunita.brown137@clientcorp.com",
+    "phone": "+919878237441",
+    "tier": "STANDARD",
+    "created_at": "2026-03-09T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000138",
+    "name": "Daniel Smith",
+    "email": "daniel.smith138@clientcorp.com",
+    "phone": "+919897428126",
+    "tier": "STANDARD",
+    "created_at": "2026-02-20T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000139",
+    "name": "Jessica White",
+    "email": "jessica.white139@clientcorp.com",
+    "phone": "+919866853445",
+    "tier": "STANDARD",
+    "created_at": "2026-02-19T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000140",
+    "name": "Samantha Miller",
+    "email": "samantha.miller140@clientcorp.com",
+    "phone": "+919875214281",
+    "tier": "STANDARD",
+    "created_at": "2026-02-10T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000141",
+    "name": "James Anderson",
+    "email": "james.anderson141@clientcorp.com",
+    "phone": "+919835693852",
+    "tier": "STANDARD",
+    "created_at": "2026-04-04T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000142",
+    "name": "Samantha Wilson",
+    "email": "samantha.wilson142@clientcorp.com",
+    "phone": "+919884574544",
+    "tier": "STANDARD",
+    "created_at": "2026-04-23T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000143",
+    "name": "Daniel Martin",
+    "email": "daniel.martin143@clientcorp.com",
+    "phone": "+919826399419",
+    "tier": "STANDARD",
+    "created_at": "2026-02-06T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000144",
+    "name": "Samantha Williams",
+    "email": "samantha.williams144@clientcorp.com",
+    "phone": "+919816594341",
+    "tier": "STANDARD",
+    "created_at": "2026-02-13T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000145",
+    "name": "Daniel Taylor",
+    "email": "daniel.taylor145@clientcorp.com",
+    "phone": "+919825601182",
+    "tier": "STANDARD",
+    "created_at": "2026-06-13T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000146",
+    "name": "James Jones",
+    "email": "james.jones146@clientcorp.com",
+    "phone": "+919836307674",
+    "tier": "STANDARD",
+    "created_at": "2026-06-17T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000147",
+    "name": "Sarah Jackson",
+    "email": "sarah.jackson147@clientcorp.com",
+    "phone": "+919820091577",
+    "tier": "STANDARD",
+    "created_at": "2026-04-27T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000148",
+    "name": "Daniel Miller",
+    "email": "daniel.miller148@clientcorp.com",
+    "phone": "+919812688470",
+    "tier": "STANDARD",
+    "created_at": "2026-05-10T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000149",
+    "name": "Geeta Harris",
+    "email": "geeta.harris149@clientcorp.com",
+    "phone": "+919829855185",
+    "tier": "STANDARD",
+    "created_at": "2026-04-07T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000150",
+    "name": "Sunita Davis",
+    "email": "sunita.davis150@clientcorp.com",
+    "phone": "+919879423458",
+    "tier": "STANDARD",
+    "created_at": "2026-07-03T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000151",
+    "name": "Laura Miller",
+    "email": "laura.miller151@clientcorp.com",
+    "phone": "+919878927409",
+    "tier": "STANDARD",
+    "created_at": "2026-05-17T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000152",
+    "name": "Sarah Wilson",
+    "email": "sarah.wilson152@clientcorp.com",
+    "phone": "+919815972435",
+    "tier": "STANDARD",
+    "created_at": "2026-04-08T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000153",
+    "name": "Samantha Anderson",
+    "email": "samantha.anderson153@clientcorp.com",
+    "phone": "+919877260060",
+    "tier": "STANDARD",
+    "created_at": "2026-07-21T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000154",
+    "name": "Geeta Williams",
+    "email": "geeta.williams154@clientcorp.com",
+    "phone": "+919868230177",
+    "tier": "STANDARD",
+    "created_at": "2026-06-25T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000155",
+    "name": "Emily White",
+    "email": "emily.white155@clientcorp.com",
+    "phone": "+919882841831",
+    "tier": "VIP",
+    "created_at": "2026-07-22T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000156",
+    "name": "Geeta Davis",
+    "email": "geeta.davis156@clientcorp.com",
+    "phone": "+919857271290",
+    "tier": "STANDARD",
+    "created_at": "2026-04-08T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000157",
+    "name": "Daniel Davis",
+    "email": "daniel.davis157@clientcorp.com",
+    "phone": "+919841381603",
+    "tier": "STANDARD",
+    "created_at": "2026-06-01T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000158",
+    "name": "John Miller",
+    "email": "john.miller158@clientcorp.com",
+    "phone": "+919816286835",
+    "tier": "STANDARD",
+    "created_at": "2026-06-01T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000159",
+    "name": "Amit White",
+    "email": "amit.white159@clientcorp.com",
+    "phone": "+919856366542",
+    "tier": "STANDARD",
+    "created_at": "2026-02-21T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000160",
+    "name": "Ramesh Anderson",
+    "email": "ramesh.anderson160@clientcorp.com",
+    "phone": "+919838463983",
+    "tier": "STANDARD",
+    "created_at": "2026-04-02T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000161",
+    "name": "Samantha Martin",
+    "email": "samantha.martin161@clientcorp.com",
+    "phone": "+919852695760",
+    "tier": "STANDARD",
+    "created_at": "2026-05-26T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000162",
+    "name": "Sunita Anderson",
+    "email": "sunita.anderson162@clientcorp.com",
+    "phone": "+919815239412",
+    "tier": "ENTERPRISE",
+    "created_at": "2026-05-08T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000163",
+    "name": "Michael Davis",
+    "email": "michael.davis163@clientcorp.com",
+    "phone": "+919851136713",
+    "tier": "STANDARD",
+    "created_at": "2026-06-11T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000164",
+    "name": "Amit Smith",
+    "email": "amit.smith164@clientcorp.com",
+    "phone": "+919830251840",
+    "tier": "STANDARD",
+    "created_at": "2026-05-05T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000165",
+    "name": "Laura Johnson",
+    "email": "laura.johnson165@clientcorp.com",
+    "phone": "+919870908075",
+    "tier": "STANDARD",
+    "created_at": "2026-05-07T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000166",
+    "name": "Geeta Jackson",
+    "email": "geeta.jackson166@clientcorp.com",
+    "phone": "+919866741281",
+    "tier": "STANDARD",
+    "created_at": "2026-06-13T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000167",
+    "name": "Daniel Thomas",
+    "email": "daniel.thomas167@clientcorp.com",
+    "phone": "+919855684751",
+    "tier": "STANDARD",
+    "created_at": "2026-07-15T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000168",
+    "name": "Laura Thomas",
+    "email": "laura.thomas168@clientcorp.com",
+    "phone": "+919812886138",
+    "tier": "STANDARD",
+    "created_at": "2026-04-20T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000169",
+    "name": "James Smith",
+    "email": "james.smith169@clientcorp.com",
+    "phone": "+919889856151",
+    "tier": "STANDARD",
+    "created_at": "2026-06-05T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000170",
+    "name": "James Harris",
+    "email": "james.harris170@clientcorp.com",
+    "phone": "+919845816633",
+    "tier": "STANDARD",
+    "created_at": "2026-04-02T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000171",
+    "name": "Jessica Jackson",
+    "email": "jessica.jackson171@clientcorp.com",
+    "phone": "+919886700405",
+    "tier": "STANDARD",
+    "created_at": "2026-06-23T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000172",
+    "name": "Emily Anderson",
+    "email": "emily.anderson172@clientcorp.com",
+    "phone": "+919818859659",
+    "tier": "STANDARD",
+    "created_at": "2026-06-29T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000173",
+    "name": "John Williams",
+    "email": "john.williams173@clientcorp.com",
+    "phone": "+919819262503",
+    "tier": "STANDARD",
+    "created_at": "2026-02-24T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000174",
+    "name": "Emily Davis",
+    "email": "emily.davis174@clientcorp.com",
+    "phone": "+919854030678",
+    "tier": "STANDARD",
+    "created_at": "2026-05-07T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000175",
+    "name": "James Jones",
+    "email": "james.jones175@clientcorp.com",
+    "phone": "+919895326021",
+    "tier": "STANDARD",
+    "created_at": "2026-04-11T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000176",
+    "name": "Venkat Miller",
+    "email": "venkat.miller176@clientcorp.com",
+    "phone": "+919847960525",
+    "tier": "VIP",
+    "created_at": "2026-06-22T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000177",
+    "name": "Laura Jones",
+    "email": "laura.jones177@clientcorp.com",
+    "phone": "+919825936185",
+    "tier": "STANDARD",
+    "created_at": "2026-06-18T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000178",
+    "name": "Daniel Jones",
+    "email": "daniel.jones178@clientcorp.com",
+    "phone": "+919859806745",
+    "tier": "VIP",
+    "created_at": "2026-03-16T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000179",
+    "name": "Lakshmi Anderson",
+    "email": "lakshmi.anderson179@clientcorp.com",
+    "phone": "+919854151505",
+    "tier": "STANDARD",
+    "created_at": "2026-04-30T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000180",
+    "name": "Ramesh Jones",
+    "email": "ramesh.jones180@clientcorp.com",
+    "phone": "+919888893002",
+    "tier": "STANDARD",
+    "created_at": "2026-05-05T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000181",
+    "name": "Sarah Johnson",
+    "email": "sarah.johnson181@clientcorp.com",
+    "phone": "+919865350733",
+    "tier": "STANDARD",
+    "created_at": "2026-02-25T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000182",
+    "name": "Lakshmi Harris",
+    "email": "lakshmi.harris182@clientcorp.com",
+    "phone": "+919877835427",
+    "tier": "ENTERPRISE",
+    "created_at": "2026-07-16T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000183",
+    "name": "John Brown",
+    "email": "john.brown183@clientcorp.com",
+    "phone": "+919859618485",
+    "tier": "STANDARD",
+    "created_at": "2026-04-10T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000184",
+    "name": "Ramesh Harris",
+    "email": "ramesh.harris184@clientcorp.com",
+    "phone": "+919858354745",
+    "tier": "STANDARD",
+    "created_at": "2026-02-02T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000185",
+    "name": "Daniel Williams",
+    "email": "daniel.williams185@clientcorp.com",
+    "phone": "+919854733556",
+    "tier": "STANDARD",
+    "created_at": "2026-06-29T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000186",
+    "name": "Amit Jackson",
+    "email": "amit.jackson186@clientcorp.com",
+    "phone": "+919836868810",
+    "tier": "STANDARD",
+    "created_at": "2026-02-15T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000187",
+    "name": "Sarah Jones",
+    "email": "sarah.jones187@clientcorp.com",
+    "phone": "+919817664108",
+    "tier": "STANDARD",
+    "created_at": "2026-07-16T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000188",
+    "name": "John White",
+    "email": "john.white188@clientcorp.com",
+    "phone": "+919843015900",
+    "tier": "STANDARD",
+    "created_at": "2026-04-30T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000189",
+    "name": "Amit Johnson",
+    "email": "amit.johnson189@clientcorp.com",
+    "phone": "+919877786759",
+    "tier": "STANDARD",
+    "created_at": "2026-04-11T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000190",
+    "name": "David Martin",
+    "email": "david.martin190@clientcorp.com",
+    "phone": "+919885677442",
+    "tier": "STANDARD",
+    "created_at": "2026-07-17T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000191",
+    "name": "James Martin",
+    "email": "james.martin191@clientcorp.com",
+    "phone": "+919894458752",
+    "tier": "STANDARD",
+    "created_at": "2026-02-23T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000192",
+    "name": "Emily Miller",
+    "email": "emily.miller192@clientcorp.com",
+    "phone": "+919857832445",
+    "tier": "VIP",
+    "created_at": "2026-03-03T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000193",
+    "name": "Lakshmi Jackson",
+    "email": "lakshmi.jackson193@clientcorp.com",
+    "phone": "+919812103469",
+    "tier": "STANDARD",
+    "created_at": "2026-04-21T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000194",
+    "name": "James Smith",
+    "email": "james.smith194@clientcorp.com",
+    "phone": "+919836201632",
+    "tier": "STANDARD",
+    "created_at": "2026-04-14T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000195",
+    "name": "Michael Smith",
+    "email": "michael.smith195@clientcorp.com",
+    "phone": "+919877856472",
+    "tier": "STANDARD",
+    "created_at": "2026-03-02T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000196",
+    "name": "Sunita Thomas",
+    "email": "sunita.thomas196@clientcorp.com",
+    "phone": "+919849504967",
+    "tier": "STANDARD",
+    "created_at": "2026-04-23T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000197",
+    "name": "Laura Anderson",
+    "email": "laura.anderson197@clientcorp.com",
+    "phone": "+919835640002",
+    "tier": "STANDARD",
+    "created_at": "2026-04-04T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000198",
+    "name": "Lakshmi Smith",
+    "email": "lakshmi.smith198@clientcorp.com",
+    "phone": "+919833023315",
+    "tier": "VIP",
+    "created_at": "2026-06-24T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000199",
+    "name": "Ramesh Jones",
+    "email": "ramesh.jones199@clientcorp.com",
+    "phone": "+919899716215",
+    "tier": "STANDARD",
+    "created_at": "2026-03-17T09:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000200",
+    "name": "Sarah Martin",
+    "email": "sarah.martin200@clientcorp.com",
+    "phone": "+919840836581",
+    "tier": "STANDARD",
+    "created_at": "2026-06-29T09:00:00+00:00"
+  }
+]

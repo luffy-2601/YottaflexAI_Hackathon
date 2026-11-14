@@ -1,0 +1,27 @@
+[
+  {
+    "language_code": "en",
+    "name": "English",
+    "is_supported": true
+  },
+  {
+    "language_code": "te",
+    "name": "Telugu",
+    "is_supported": true
+  },
+  {
+    "language_code": "hi",
+    "name": "Hindi",
+    "is_supported": true
+  },
+  {
+    "language_code": "ta",
+    "name": "Tamil",
+    "is_supported": true
+  },
+  {
+    "language_code": "kn",
+    "name": "Kannada",
+    "is_supported": true
+  }
+]

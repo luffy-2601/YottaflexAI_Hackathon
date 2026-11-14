@@ -1,0 +1,23 @@
+[
+  {
+    "queue_id": "Q_CRITICAL_INCIDENTS",
+    "name": "Critical Incidents & Security",
+    "channel_id": "email",
+    "priority_min": "P1",
+    "routing_strategy": "INTELLIGENT"
+  },
+  {
+    "queue_id": "Q_TIER2_PAYMENTS",
+    "name": "Payment Processing Escalations",
+    "channel_id": "chat",
+    "priority_min": "P2",
+    "routing_strategy": "INTELLIGENT"
+  },
+  {
+    "queue_id": "Q_GENERAL_SUPPORT",
+    "name": "Omnichannel General Support",
+    "channel_id": "email",
+    "priority_min": "P4",
+    "routing_strategy": "INTELLIGENT"
+  }
+]

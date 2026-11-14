@@ -1,0 +1,6 @@
+skill_id,name,tier_level
+PAYMENT_GATEWAY,Payment Gateway & UPI Protocols,2
+SECURITY_FORENSICS,Account Security & Fraud Triage,3
+INFRA_SYSADMIN,Cloud Infrastructure & Backend Systems,3
+BILLING_OPERATIONS,Invoicing & Subscription Audits,1
+CUSTOMER_SUCCESS,General Inquiries & Account Care,1

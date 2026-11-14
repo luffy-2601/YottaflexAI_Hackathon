@@ -1,0 +1,71 @@
+{
+  "generated_at": "2026-11-14T10:09:39.435028+00:00",
+  "seed": 20261022,
+  "scale": "starter",
+  "files": {
+    "channels.json": {
+      "count": 3,
+      "sha256": "da1dd0751fbde103c138f6bde452185e377bafc2b1753313c60ea233b7672893"
+    },
+    "languages.json": {
+      "count": 5,
+      "sha256": "93941d4412911b6c0ea7996f9807db760388fd1133b855ad1f39701da7f519ba"
+    },
+    "skills.json": {
+      "count": 5,
+      "sha256": "4bad1aacef8d169dcf9c3a862d72469336b31646dc17345c5f833a9604a66136"
+    },
+    "intents.json": {
+      "count": 10,
+      "sha256": "53ce16bb4e622d47298c7e6d692c220af3d2fa40d5e2734210144e5b2746f3f5"
+    },
+    "priority_rules.json": {
+      "count": 3,
+      "sha256": "0bc2c90ecaeb2b0bfb8c9eb6e99d04226901332ad95183b7850ff453f71bfcc9"
+    },
+    "queues.json": {
+      "count": 3,
+      "sha256": "8324efaf04fa5486b517d52543f10309ae99d7be67e9fd808d6556b8689ce4f2"
+    },
+    "agents.json": {
+      "count": 100,
+      "sha256": "5ce9eb1eb066bf90bc2fb88817f00494d7574dcb33315c05b66957c21bc0ea6a"
+    },
+    "agent_skills.json": {
+      "count": 343,
+      "sha256": "b8457ee4631477ee726134dc4f72643e934ad7c0d57b515df43ac2107abe9072"
+    },
+    "agent_languages.json": {
+      "count": 250,
+      "sha256": "bda6d80ccb81a10b873675da3973ce25a963c4275df4d6ef5e88b2949abd9cc3"
+    },
+    "agent_shifts.json": {
+      "count": 600,
+      "sha256": "67c95c36023c4470b450fc0fdba954e51df0b85df17d955e39d7527eef18ae0c"
+    },
+    "customers.json": {
+      "count": 200,
+      "sha256": "abe89dc9acbf84453e07d614335e81713240de29166935d1562613f56b9abf30"
+    },
+    "tickets.json": {
+      "count": 1000,
+      "sha256": "8f6e5eabdb7633ed24d0aeedced66eebabe55950217f9ad2e12e29a68f7dbb3d"
+    },
+    "messages.json": {
+      "count": 1998,
+      "sha256": "caff776bf7408a98aac979e46752bad9df4b30721b2d1d853c5492c8b3c643ce"
+    },
+    "assignment_events.json": {
+      "count": 1001,
+      "sha256": "856e55f32f55f03f4b3a334321841840a8d8a26e7e9f6cedd9077e89d2bb9cdc"
+    },
+    "sla_events.json": {
+      "count": 1000,
+      "sha256": "eace9682c74746ff05d9fb0fa3e78b8a85f50a037cb48c8f9f24b36e92862811"
+    },
+    "resolutions.json": {
+      "count": 716,
+      "sha256": "5ef0be34f6a3de64e5b9e35ea4780e5db9ae685c4200f806ac0c3109eaa163c2"
+    }
+  }
+}

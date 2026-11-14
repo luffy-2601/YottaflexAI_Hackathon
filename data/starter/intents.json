@@ -1,0 +1,72 @@
+[
+  {
+    "intent_id": "ACCOUNT_SECURITY",
+    "name": "Account Security & Fraud",
+    "category": "SECURITY",
+    "default_priority": "P1",
+    "required_skill_id": "SECURITY_FORENSICS"
+  },
+  {
+    "intent_id": "PAYMENT_FAILURE",
+    "name": "Payment Transaction Failure",
+    "category": "BILLING",
+    "default_priority": "P2",
+    "required_skill_id": "PAYMENT_GATEWAY"
+  },
+  {
+    "intent_id": "PAYMENT_DUPLICATE",
+    "name": "Duplicate Debit Issue",
+    "category": "BILLING",
+    "default_priority": "P2",
+    "required_skill_id": "PAYMENT_GATEWAY"
+  },
+  {
+    "intent_id": "TECHNICAL_ISSUE",
+    "name": "Service Outage or Bug",
+    "category": "TECH",
+    "default_priority": "P2",
+    "required_skill_id": "INFRA_SYSADMIN"
+  },
+  {
+    "intent_id": "REFUND_REQUEST",
+    "name": "Refund Claim",
+    "category": "BILLING",
+    "default_priority": "P3",
+    "required_skill_id": "BILLING_OPERATIONS"
+  },
+  {
+    "intent_id": "LOGIN_ISSUE",
+    "name": "Authentication Error / OTP",
+    "category": "AUTH",
+    "default_priority": "P3",
+    "required_skill_id": "CUSTOMER_SUCCESS"
+  },
+  {
+    "intent_id": "BILLING_QUERY",
+    "name": "Invoice / Pricing Explanation",
+    "category": "BILLING",
+    "default_priority": "P3",
+    "required_skill_id": "BILLING_OPERATIONS"
+  },
+  {
+    "intent_id": "ORDER_STATUS",
+    "name": "Shipment Tracking",
+    "category": "OPERATIONS",
+    "default_priority": "P3",
+    "required_skill_id": "CUSTOMER_SUCCESS"
+  },
+  {
+    "intent_id": "ACCOUNT_UPDATE",
+    "name": "Profile Details Update",
+    "category": "AUTH",
+    "default_priority": "P4",
+    "required_skill_id": "CUSTOMER_SUCCESS"
+  },
+  {
+    "intent_id": "GENERAL_ENQUIRY",
+    "name": "General Platform Inquiry",
+    "category": "GENERAL",
+    "default_priority": "P4",
+    "required_skill_id": "CUSTOMER_SUCCESS"
+  }
+]
