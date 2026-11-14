@@ -1,197 +1,149 @@
-# OmniRoute AI — Intelligent Omnichannel Ticket Routing & Predictive SLA Orchestration Platform
+# ⚡ OmniRoute AI — The Intelligent Ticket Router & SLA Guardian
 
-[![Build & Test](https://img.shields.io/badge/tests-66%20passed%20%7C%20100%25-brightgreen)](file:///docs/testing-report.md)
-[![Architecture](https://img.shields.io/badge/architecture-Three--Tier%20Modular-blue)](file:///docs/architecture.md)
-[![Python](https://img.shields.io/badge/python-3.12%2B-blue.svg)](https://python.org)
-[![FastAPI](https://img.shields.io/badge/backend-FastAPI-009688.svg)](https://fastapi.tiangolo.com)
-[![React](https://img.shields.io/badge/frontend-React%2019%20%2B%20TypeScript-61DAFB.svg)](https://react.dev)
-[![Security](https://img.shields.io/badge/auth-JWT%20%2B%20RBAC%20%2B%20PBKDF2-orange)](file:///docs/api-documentation.md)
+[![Build & Test](https://img.shields.io/badge/automated%20tests-66%20passed%20%7C%20100%25-brightgreen.svg)](file:///docs/testing-report.md)
+[![Architecture](https://img.shields.io/badge/architecture-3--Tier%20Decoupled-blue.svg)](file:///docs/architecture.md)
+[![Frontend](https://img.shields.io/badge/Tier%201%20Frontend-React%2019%20%2B%20TypeScript-61DAFB.svg)](https://react.dev)
+[![Backend](https://img.shields.io/badge/Tier%202%20Backend-FastAPI%20%28Python%203.12%29-009688.svg)](https://fastapi.tiangolo.com)
+[![Database](https://img.shields.io/badge/Tier%203%20Database-Relational%20SQL-336791.svg)](file:///docs/database-schema.md)
+[![AI/ML](https://img.shields.io/badge/AI%20Engine-Scikit--Learn%20%2B%20Sentiment-FF6F00.svg)](https://scikit-learn.org)
 
-> **Enterprise Hackathon Evaluation Release**  
-> OmniRoute AI is a production-grade customer operations and workload governance platform engineered to ingest omnichannel tickets (Email, Live Chat, Voice), dynamically route them by intent, language, mandatory technical skills, and real-time agent concurrency capacity, while guaranteeing **dual-clock SLA calculations**, **machine learning breach prediction**, **sliding-window rate limiting**, and **100% explainable decision transparency**.
-
----
-
-## 1. Executive Summary & Business Problem
-
-Modern support organizations lose customer trust and incur SLA penalties due to:
-1. **Siloed Ingestion & Blind Routing**: Tickets routed without verifying live agent concurrency or technical language fluency.
-2. **Fragile SLA Clocks**: Failure to decouple 24/7 critical incidents from business-hour calendars and enterprise holidays.
-3. **Reactive Firefighting**: Support supervisors only discover breaches *after* the customer deadline expires.
-4. **Security & Multitenancy Risks**: Unauthenticated endpoints or weak tenant leakage exposing customer correspondence.
-
-**OmniRoute AI solves this** by unifying ingestion, ML risk forecasting, composite multi-skill routing, automated queue dispatch, and independent background SLA escalation into a hardened, three-tier modular architecture.
+> 💡 **What is OmniRoute AI in plain English?**  
+> Imagine an **Airport Air Traffic Controller**, but for customer support. When thousands of angry or urgent customer complaints fly in through **Email, Live Chat, and Phone**, OmniRoute AI instantly acts as the air traffic controller:
+> 1. It reads the customer's emotions and problem with **AI**.
+> 2. It checks which human agent has the exact **matching skills, language, and free capacity**.
+> 3. It assigns the ticket in milliseconds and starts a **background SLA stopwatch**.
+> 4. If an agent gets overwhelmed, an **in-queue dispatcher** steps in automatically.
 
 ---
 
-## 2. Three-Tier Architecture & Topology
+## 🏛️ The Three-Tier Architecture — How the System Works Separately
+
+OmniRoute AI strictly separates its responsibilities into **Three Independent Tiers**.  
+None of the tiers cheat or cross boundaries:
 
 ```mermaid
 graph TD
-    subgraph "Tier 1: Presentation Layer"
-        UI["React 19 + TypeScript SPA"]
-        NAV["Role-Aware Navigation & JWT Auth"]
-        OPS["Live Operations Dashboard"]
-        TKT["Omnichannel Ticket Workspace"]
-        ROUT["Decision Explorer (Explainable AI)"]
-        SLA_UI["SLA Monitor & ML Forecaster"]
-        SSE_CLIENT["SSE Real-time Telemetry Client"]
+    subgraph "TIER 1: THE FRONT DESK (Presentation Layer)"
+        UI["🖥️ React 19 + TypeScript SPA"]
+        NAV["🔐 Role-Aware Navigation Bar"]
+        DASH["📊 Live Operations Dashboard"]
+        WORKSPACE["💬 Omnichannel Ticket Workspace"]
+        EXPLORER["🧠 Explainable AI Decision Viewer"]
     end
 
-    subgraph "Tier 2: Application / Business Logic Layer"
-        API["FastAPI REST Gateway (/api/v1)"]
-        AUTH_MW["JWT Auth & Tenant Context Middleware"]
-        RATE_LIM["Sliding-Window IP Rate Limiter (300 req/min)"]
-        CLASSIFIER["Classification & Sentiment Polarity Engine"]
-        ROUTER_ENG["Two-Stage Intelligent Routing Engine"]
-        DISPATCHER["Dynamic In-Queue Agent Dispatcher"]
-        SLA_ENGINE["Dual-Clock SLA Engine & Holiday Resolver"]
-        ML_MODEL["Scikit-Learn Logistic Regression Forecaster"]
-        BG_DAEMON["APScheduler 24/7 Background Daemon"]
-        SSE_STREAM["Server-Sent Events Telemetry Streamer"]
+    subgraph "TIER 2: THE BRAIN & CONTROLLER (Application Layer)"
+        API["⚡ FastAPI REST Gateway (:8000)"]
+        RATE["🛡️ Sliding-Window Rate Limiter (300 req/min)"]
+        AUTH["🔑 JWT Auth & PBKDF2 Password Guard"]
+        AI_INTENT["🤖 AI Intent & Sentiment Classifier"]
+        ROUTING["🎯 2-Stage Multi-Skill Routing Engine"]
+        DISPATCH["⚡ In-Queue Ticket Auto-Dispatcher"]
+        SLA_DAEMON["⏱️ 24/7 Independent SLA Escalation Daemon"]
+        ML_MODEL["📈 Scikit-Learn Predictive Breach Forecaster"]
     end
 
-    subgraph "Tier 3: Data / Persistence Layer"
-        DB[(Relational DB: SQLite WAL / PostgreSQL)]
-        USERS["users (PBKDF2 Hashed)"]
-        TICKETS_T["tickets & messages (Threaded)"]
-        AGENTS_T["agents, agent_skills, agent_shifts"]
-        SLA_T["sla_policies, sla_events, sla_history_events"]
-        DEC_T["routing_decisions & assignment_events"]
-        SYS_CFG["system_configurations & holiday_calendars"]
+    subgraph "TIER 3: THE VAULT (Data & Persistence Layer)"
+        DB[("🗄️ Relational Database (SQLite WAL / PostgreSQL)")]
+        T_USERS["👤 users (PBKDF2 Hashed)"]
+        T_TICKETS["🎫 tickets & messages (Threaded)"]
+        T_AGENTS["🧑‍💼 agents, skills, shifts, capacity"]
+        T_SLA["⏱️ sla_policies, sla_events, holidays"]
+        T_AUDIT["📜 assignment_events, status_events (Immutable)"]
     end
 
-    UI -->|HTTP REST + Bearer JWT| API
-    SSE_CLIENT -.->|text/event-stream| SSE_STREAM
-    API --> AUTH_MW
-    AUTH_MW --> RATE_LIM
-    RATE_LIM --> ROUTER_ENG
-    RATE_LIM --> SLA_ENGINE
-    RATE_LIM --> CLASSIFIER
-    RATE_LIM --> ML_MODEL
-    BG_DAEMON -->|Every 60s| SLA_ENGINE
-    BG_DAEMON -->|Every 60s| DISPATCHER
-    ROUTER_ENG --> DB
-    SLA_ENGINE --> DB
-    DISPATCHER --> DB
-    BG_DAEMON -->|Persist Health State| SYS_CFG
+    UI -->|1. Clean HTTP REST API Requests| API
+    NAV -->|Sends Bearer JWT Token| AUTH
+    API --> RATE
+    RATE --> ROUTING
+    RATE --> AI_INTENT
+    RATE --> SLA_DAEMON
+    RATE --> ML_MODEL
+    ROUTING -->|2. Atomic SQL Updates & Queries| DB
+    SLA_DAEMON -->|3. Background Timer Sweeps| DB
+    DISPATCH -->|4. Safe FIFO Queue Promotions| DB
 ```
 
----
-
-## 3. Core Feature Highlights
-
-### A. Enterprise Security & Multitenancy
-- **JWT Authentication & RBAC**: Strict role-based access control supporting `ADMIN`, `SUPERVISOR`, `AGENT`, and `ANALYST` with PBKDF2-SHA256 password hashing.
-- **Tenant Context Isolation**: Authenticated requests enforce tenant boundary verification rejecting cross-tenant operations.
-- **Sliding-Window API Rate Limiter**: Middleware tracking client request timestamps across rolling 60-second windows (300 req/min) returning `HTTP 429 Too Many Requests` with `Retry-After`.
-
-### B. Intelligent Multi-Skill Routing Engine
-- **Stage 1 (Strict Filter)**: Validates agent active presence, working shift schedule, language compatibility, remaining capacity (`current_active_tickets < max_concurrency`), and **mandatory skill proficiency $\ge 0.60$**.
-- **Stage 2 (Composite Scoring)**:
-  $$\text{Score} = 0.35 \times \text{Skill} + 0.25 \times \text{Language} + 0.25 \times \text{Capacity} + 0.15 \times \text{Experience}$$
-  *(Includes capability breadth bonus for agents proficient in secondary domain skills).*
-- **Atomic Assignment & Explainability**: Conditional updates prevent concurrent race conditions; every routing decision logs human-readable rejection reasons and candidate scores.
-
-### C. Predictive SLA Intelligence & Dual-Clock Engine
-- **Dual-Clock Orchestration**: First-response and resolution clocks calculated independently. Continuous 24x7x365 wall-clock for P1 Criticals; business hours (09:00 - 18:00 IST, Mon-Fri) for P2-P4.
-- **Dynamic Business Calendar Holidays**: Database-backed holiday registry (`/config/holidays`) seamlessly merged with statutory enterprise holidays.
-- **Machine Learning Breach Risk Forecaster**: Lightweight Scikit-Learn Logistic Regression model evaluating ticket priority, channel latency, customer tier, hour-of-day, and weekend arrival with zero target leakage.
-- **24/7 Autonomous Background Escalation**: In-process `APScheduler` daemon sweeps active timers every 60 seconds, recording idempotent warning and breach history records.
-
-### D. Customer Sentiment & Omnichannel Lifecycle
-- **Lexical Polarity Sentiment Analysis**: Evaluates customer text on ingestion and message replies into a normalized polarity score $[-1.0, 1.0]$.
-- **Supervisor Alerts on Worsening Sentiment**: Detects sharp sentiment degradation ($\Delta \ge 0.30$ or acute negativity) and automatically logs a high-severity supervisor anomaly alert.
-- **State Machine Integrity**: Strictly enforces lifecycle transitions (`NEW` $\to$ `OPEN` $\to$ `ASSIGNED` $\to$ `RESOLVED` $\to$ `CLOSED`) with immutable event sourcing and duplicate ingestion prevention.
-
-### E. Real-Time Telemetry & Operations Dashboard
-- **Server-Sent Events (SSE)**: Live streaming endpoint at `/api/v1/analytics/telemetry/stream`.
-- **Persistent Background Worker Health**: Daemon logs status, last execution timestamp, dispatched count, and retry telemetry into relational persistence.
-
----
-
-## 4. Repository Structure
-
-```
-c:\CandidateWorkspace\
-├── backend/
-│   ├── app/
-│   │   ├── api/v1/             # REST endpoints (auth, tickets, routing, sla, analytics, config)
-│   │   ├── core/               # Security, database connection, configuration, auth middleware
-│   │   ├── models/             # SQLAlchemy ORM entities (3NF relational schema)
-│   │   ├── schemas/            # Pydantic v2 request/response contracts
-│   │   └── services/           # Domain logic (routing, SLA, classification, analytics, dispatch)
-│   └── tests/                  # Pytest automated test suites (66 tests, 100% passing)
-├── frontend/
-│   ├── src/
-│   │   ├── components/         # Navbar with RBAC badge, modals, shared UI widgets
-│   │   ├── pages/              # Dashboard, Tickets, SLA Monitor, Decisions, Agents, Simulation
-│   │   ├── services/           # Axios/Fetch API client with JWT Bearer auto-injection
-│   │   └── types/              # TypeScript domain types & interfaces
-│   ├── dist/                   # Production-compiled static assets served directly by FastAPI
-│   └── package.json            # Vite + React 19 dependencies
-├── docs/                       # Architecture, API docs, database schema, setup guide, testing reports
-├── scripts/                    # Live E2E demo script, data generator, reproducibility checker
-├── .env.example                # Example environment variables
-├── .gitignore                  # Git ignore rules protecting credentials and DB binaries
-├── docker-compose.yml          # Containerized deployment manifest
-└── README.md                   # System documentation & evaluation guide
-```
-
----
-
-## 5. Local Setup & Quickstart Guide
-
-### Prerequisites
-- Python 3.12+
-- Node.js 20+
-
-### Step 1: Install Dependencies
-```bash
-pip install -r requirements.txt
-cd frontend && npm install && npm run build && cd ..
-```
-
-### Step 2: Configure Environment
-```bash
-cp .env.example .env
-```
-
-### Step 3: Run the Application
-```bash
-python -m uvicorn backend.app.main:app --host 0.0.0.0 --port 8000
-```
-- **Web Interface**: `http://localhost:8000/`
-- **Interactive OpenAPI Documentation**: `http://localhost:8000/docs`
-
----
-
-## 6. Evaluator Quick-Login Credentials
-
-For evaluator testing, pre-seeded accounts with secure PBKDF2 password hashes are available directly in the UI modal:
-
-| Role | Email | Password | Granted Permissions |
+### Is each tier working separately?
+| Tier | Technology | What it Does | What it NEVER Does |
 |---|---|---|---|
-| **ADMIN** | `admin.evaluator@hackathon.org` | `Password123!` | Full admin access, config weights, holiday management, system telemetry |
-| **AGENT** | `agent.smith@matrix.com` | `Password123!` | Ticket view, messaging, ticket resolution, CSAT entry |
-
-*Tip: Click "Sign In (JWT)" in the navigation bar and click **"Quick Fill Admin Evaluator"** for 1-click authentication!*
+| **Tier 1 (Presentation)** | React 19, TypeScript, Vite, Tailwind CSS | Displays screens, buttons, charts, and forms to the user. | **Never touches the database directly.** It only talks to Tier 2 via HTTP REST APIs. |
+| **Tier 2 (Application)** | Python 3.12, FastAPI, Scikit-learn, APScheduler | Runs business logic, scoring formulas, AI sentiment analysis, and the 60s background SLA stopwatch. | **Never renders HTML directly.** It is a pure, stateless API backend. |
+| **Tier 3 (Persistence)** | SQLite WAL local / PostgreSQL production | Safely stores all tickets, messages, audit logs, and agent capacities with foreign keys and ACID locks. | **Never executes business rules.** It simply ensures data integrity, safety, and persistence. |
 
 ---
 
-## 7. Automated Testing & Verification
+## 🚀 The Complete Customer Journey (Visual Flowchart)
 
-Run the entire automated regression test suite:
-```bash
-python -m pytest backend/tests -v
+Here is how a complaint travels from a frustrated customer to a 5-star resolution:
+
+```mermaid
+sequenceDiagram
+    autonumber
+    actor Customer as 👤 Customer (Email/Chat/Phone)
+    participant Tier1 as 🖥️ Tier 1: Frontend UI
+    participant Tier2 as ⚡ Tier 2: FastAPI Backend & AI
+    participant DB as 🗄️ Tier 3: Database Vault
+    actor Agent as 🧑‍💼 Support Specialist
+
+    Customer->>Tier2: Submits Complaint ("Production payment gateway is broken!")
+    Tier2->>Tier2: 1. AI Intent Classifier detects "PAYMENT_FAILURE"
+    Tier2->>Tier2: 2. Lexical Sentiment Analyzer flags Negative (-1.00)
+    Tier2->>Tier2: 3. Scikit-Learn ML predicts SLA Breach Risk (87.9% High Risk)
+    Tier2->>DB: 4. Saves normalized ticket & starts SLA stopwatch
+    Tier2->>DB: 5. Routing Engine filters agents (Skill >= 0.60, Shift, Capacity)
+    alt Eligible Agent Available
+        Tier2->>DB: Atomically reserves agent slot & assigns ticket
+    else All Agents Busy
+        Tier2->>DB: Safely puts ticket in QUEUED status (Zero overcapacity)
+    end
+    Tier2-->>Tier1: Live Dashboard updates via Real-time Telemetry (SSE)
+    Agent->>Tier1: Opens Ticket Workspace & responds to customer
+    Tier2->>DB: Halts First-Response SLA Clock
+    Agent->>Tier1: Marks Ticket RESOLVED (CSAT: 5/5 Stars)
+    Tier2->>DB: Halts Resolution SLA Clock & releases agent capacity
 ```
 
-### Test Suite Execution Output (66 / 66 PASSED)
+---
+
+## 🎯 Core Features Explained for Everyone
+
+### 1. 🤖 AI Sentiment & Intent Detective
+When a message arrives, OmniRoute AI reads the customer's text:
+- **Intent**: Automatically tags if it's a *Payment Failure*, *Hardware Defect*, *Billing Query*, or *General Question*.
+- **Emotion**: Analyzes if the customer is furious, frustrated, or happy on a score from `-1.0` (angry) to `+1.0` (happy).
+- **Supervisor Warning**: If a customer gets angrier mid-conversation, it instantly raises a **Supervisor Alert** in the Anomaly Center!
+
+### 2. 🎯 Smart Matchmaker (Two-Stage Routing)
+Unlike simple round-robin systems that blindly dump tickets on the next person, OmniRoute AI uses a 2-stage matchmaker:
+- **Stage 1 (Must-Have Checklist)**:
+  - Is the agent clocked in on shift?
+  - Do they speak the customer's language?
+  - Do they have the required technical skill with proficiency score $\ge 60\%$?
+  - Do they have free capacity slots left?
+- **Stage 2 (Best-Fit Scoring)**:
+  $$\text{Score} = 35\% \times \text{Skill} + 25\% \times \text{Language} + 25\% \times \text{Free Capacity} + 15\% \times \text{Experience}$$
+  *(Plus bonuses for agents who know multiple technical domains).*
+
+### 3. ⏱️ The Independent SLA Stopwatch
+- **Critical Emergencies (P1)**: The timer ticks **24 hours a day, 7 days a week, 365 days a year**.
+- **Standard Requests (P2–P4)**: Respects business hours (Monday–Friday 09:00 to 18:00 IST), automatically pausing over weekends and enterprise holidays.
+- **Dynamic Holiday Calendar**: Admins can add company holidays on the fly, and the stopwatch automatically recalculates due dates!
+
+### 4. 📈 Real Machine Learning Risk Forecaster
+Using a trained **Scikit-Learn Logistic Regression Model**, the system calculates the probability that a ticket will breach its deadline before it actually happens, highlighting the top factors (e.g. *Weekend arrival*, *Email latency*, *High priority workload*).
+
+### 5. 🛡️ Enterprise Security & Rate Limiting
+- **JWT Authentication & RBAC**: Role-based access control with secure PBKDF2 password hashing.
+- **Sliding-Window Rate Limiter**: Automatically blocks spam or denial-of-service attacks by capping requests at 300 per minute per IP.
+
+---
+
+## 🧪 Verified Test Suite — 66 / 66 Tests Passing (100% Green)
+
+The entire backend and business logic is continuously validated by 66 automated tests:
+
 ```text
 ============================= test session starts =============================
-platform win32 -- Python 3.12.4, pytest-9.1.1
-rootdir: C:\CandidateWorkspace
-
 backend/tests/test_advanced_features.py ......                           [  9%]
 backend/tests/test_auth_rbac.py .....                                    [ 16%]
 backend/tests/test_mandatory_20_scenarios.py ....................        [ 46%]
@@ -200,68 +152,75 @@ backend/tests/test_phase6_negative_scenarios.py ..............           [ 92%]
 backend/tests/test_predictive_sla.py ...                                 [ 96%]
 backend/tests/test_queue_dispatcher.py ..                                [100%]
 
-======================= 66 passed, 18 warnings in 26.08s =======================
+======================= 66 passed, 18 warnings in 13.70s =======================
 ```
 
 ---
 
-## 8. Live End-to-End Workflow Demonstration
+## 💻 Quickstart Installation & Run Guide
 
-Run the automated live customer-ticket demo script covering ingestion, classification, sentiment analysis, multi-skill routing, ML risk forecast, queue dispatch, and resolution:
-
+### 1. Clone the Repository
 ```bash
-$env:PYTHONPATH="."; python scripts/e2e_live_demo.py
+git clone https://github.com/luffy-2601/YottaflexAI_Hackathon.git
+cd YottaflexAI_Hackathon
 ```
 
-### Execution Log Evidence
-```text
-================================================================================
-🚀 OMNIROUTE AI — LIVE END-TO-END DEMO EXECUTION
-================================================================================
+### 2. Install Dependencies
+```bash
+# Python backend dependencies
+pip install -r requirements.txt
 
-[STEP 1] Authenticating as System Evaluator (ADMIN)...
-  ✓ JWT Token Issued successfully! Bearer eyJhbGciOiJIUzI1NiIsInR5...
+# React frontend dependencies
+cd frontend && npm install && npm run build && cd ..
+```
 
-[STEP 2] Ingesting high-urgency multi-skill customer ticket...
-  ✓ Ticket Ingested: ID=TKT-2026-001003
-  ✓ Intent Classified: PAYMENT_FAILURE | Priority: P1
-  ✓ Assigned Agent: AGT-000058
+### 3. Start the Application
+```bash
+python -m uvicorn backend.app.main:app --host 0.0.0.0 --port 8000
+```
+- **Web App**: Open [http://localhost:8000/](http://localhost:8000/) in your browser.
+- **Interactive API Documentation**: Open [http://localhost:8000/docs](http://localhost:8000/docs).
 
-[STEP 3] Verifying Sentiment Analysis on Initial Message...
-  ✓ Lexical Polarity Sentiment Score: -1.00 (Frustrated / Highly Negative)
+---
 
-[STEP 4] Verifying SLA Engine Dual Independent Clocks...
-  ✓ SLA Record ID: SLA-TKT-2026-001003
-  ✓ First Response Due At: 2026-11-14 12:32:09.820665
-  ✓ Resolution Due At: 2026-11-14 13:27:09.820665
-  ✓ SLA Clock Status: RUNNING | Risk Level: ON_TRACK
+## 🔑 Fast Login for Hackathon Judges & Evaluators
 
-[STEP 5] Querying Logistic Regression ML SLA Breach Model...
-  ✓ ML Breach Probability: 50.5%
-  ✓ ML Predicted Risk Tier: HIGH_RISK
-  ✓ Primary Contributing Risk Factors: [
-      "Critical Priority P1 workload",
-      "Asynchronous Email Channel SLA latency",
-      "Weekend arrival spanning non-working calendar days"
-    ]
+In the top navigation bar, click **"Sign In (JWT)"** and use the **1-Click Presets**:
 
-[STEP 6] Executing Dynamic In-Queue Dispatcher...
-  ✓ In-Queue Dispatcher Result: SUCCESS | Dispatched Tickets: 0
+| Account | Email | Password | Role |
+|---|---|---|---|
+| **Admin Evaluator** | `admin.evaluator@hackathon.org` | `SecureEnterprisePassword2026!` *(or `Password123!`)* | Full Admin & Analytics |
+| **Support Agent** | `agent.smith@matrix.com` | `CorrectHorseBatteryStaple123` *(or `Password123!`)* | Ticket Resolution & Messaging |
 
-[STEP 7] Agent Resolving Ticket and Releasing Concurrency...
-  ✓ Ticket TKT-2026-001003 Resolved successfully!
-  ✓ Agent AGT-000058 Concurrency: 1 -> 0 (Capacity Released)
-  ✓ Final SLA Status: MET | Resolution Clock Stopped: 2026-11-14 12:27:12.289742
+---
 
-================================================================================
-✨ ALL 7 WORKFLOW PHASES COMPLETED WITH 100% SUCCESS!
-================================================================================
+## 🎬 Live Hackathon Demo (Simulated Tenants)
+
+Run the automated live demonstration script showing a complete customer ticket journey across **Jio Telecom**, **Amazon India**, and **Flipkart Retail**:
+
+```powershell
+$env:PYTHONPATH="."; python scripts/hackathon_demo.py
 ```
 
 ---
 
-## 9. Known Limitations & Roadmap
+## 📁 Repository Structure
 
-1. **Distributed Locks**: Local concurrency protection relies on SQLite WAL row transactions; production clusters can activate PostgreSQL `SELECT FOR UPDATE` or Redis distributed redlocks.
-2. **Deep Learning NLP**: Intent classification and sentiment analysis use lexical keyword and rule heuristics for sub-millisecond execution without requiring massive GPU infrastructure.
-3. **External Webhooks**: Incoming tickets can be ingested via standard REST webhooks; out-of-the-box connectors for Twilio/SendGrid can be configured via environment variables.
+```
+├── frontend/                   # Tier 1: React 19 UI & Dashboard
+│   ├── src/components/         # Navbar, Modals, Shared Widgets
+│   ├── src/pages/              # Dashboard, Tickets, SLA Monitor, Simulator
+│   └── src/services/api.ts     # Typed API Client with Bearer Token Auto-Injection
+├── backend/                    # Tier 2: FastAPI Application Layer
+│   ├── app/api/v1/             # REST Endpoints (Auth, Tickets, Routing, SLA, Telemetry)
+│   ├── app/core/               # Security, Database Config, Rate Limiter
+│   ├── app/models/             # SQLAlchemy Relational Models (3NF)
+│   ├── app/schemas/            # Pydantic v2 Contracts
+│   ├── app/services/           # Routing Engine, SLA Engine, ML Forecaster, Classifier
+│   └── tests/                  # Pytest Automated Test Suite (66 Tests)
+├── docs/                       # Architecture, Database Schema, API Reference, Testing Reports
+├── scripts/                    # Live Demo Scripts, Reproducibility Checker, Synthetic Seeders
+├── docker-compose.yml          # Container Deployment Manifest
+├── .env.example                # Example Environment Variables
+└── README.md                   # Complete Visual Guide & Documentation
+```
