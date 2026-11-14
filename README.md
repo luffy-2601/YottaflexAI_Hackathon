@@ -20,6 +20,72 @@
 
 OmniRoute AI is strictly engineered across **Three Independent Tiers running on separate ports**. No layer bypasses or cheats another layer:
 
+```mermaid
+flowchart TD
+    subgraph CLIENTS["🌐 OMNICHANNEL INTAKE CHANNELS"]
+        C1["📧 Customer Email Intake"]
+        C2["💬 Real-Time Live Web Chat"]
+        C3["📞 Voice / Telephony API Gateway"]
+    end
+
+    subgraph TIER1["🖥️ TIER 1: PRESENTATION LAYER (PORT 5173 / 3000)"]
+        direction TB
+        UI["React 19 + TypeScript SPA"]
+        NAV["Role-Aware Navigation (JWT Badges: ADMIN, SUPERVISOR, AGENT)"]
+        DASH["Live Operations Dashboard (Volume, Funnels, Queues)"]
+        WORKSPACE["Omnichannel Ticket Workspace (Threaded Chat + CSAT)"]
+        EXPLORE["Explainable AI Decision Audit Inspector"]
+        SLA_UI["SLA Breach Risk Forecaster & Dual Countdown Timers"]
+        PROXY["Vite Dev Server (Port 5173) Reverse Proxy: /api -> :8000"]
+    end
+
+    subgraph TIER2["⚡ TIER 2: APPLICATION & AI LOGIC (PORT 8000)"]
+        direction TB
+        GATEWAY["FastAPI Application Gateway (Port 8000 /api/v1)"]
+        AUTH["Security: JWT Authenticator & PBKDF2 Password Hasher"]
+        RATELIMIT["Sliding Window Rate Limiter (300 req/min per IP)"]
+        
+        subgraph AI_ENGINES["🧠 AI & Machine Learning Subsystem"]
+            INTENT["Intent Classification (10 Functional Categories)"]
+            SENTIMENT["Customer Sentiment Polarity Analysis (-1.0 to +1.0)"]
+            ML_SLA["SLA Breach Forecaster (Scikit-Learn Logistic Regression)"]
+        end
+
+        subgraph CORE_ENGINES["⚙️ Core Domain Business Engines"]
+            ROUTING["2-Stage Multi-Skill Routing Engine (Proficiency >= 0.60)"]
+            QUEUE["Dynamic FIFO In-Queue Dispatcher"]
+            SLA_ENGINE["Dual-Clock SLA Stopwatch (24/7 Continuous vs Business Hours)"]
+        end
+
+        CRON["24/7 APScheduler Background Watchdog Daemon"]
+    end
+
+    subgraph TIER3["🗄️ TIER 3: DATA & PERSISTENCE LAYER (PORT 5432)"]
+        direction TB
+        SQL["PostgreSQL 16 (Port 5432) / SQLite 3 WAL Engine"]
+        T_AUTH["users, user_roles, credentials"]
+        T_CORE["customers, channels, tickets, messages, thread_sentiment"]
+        T_WORK["agents, skills, agent_skills, shifts, queues"]
+        T_SLA["sla_policies, business_calendars, calendar_holidays"]
+        T_AUDIT["routing_decisions, assignment_events, sla_events, audit_ledger"]
+    end
+
+    CLIENTS -->|Normalized Payload| GATEWAY
+    UI -->|HTTP REST + Bearer Token| PROXY
+    PROXY -->|Port 8000 Network Boundary| GATEWAY
+    GATEWAY --> AUTH
+    AUTH --> RATELIMIT
+    RATELIMIT --> AI_ENGINES
+    AI_ENGINES --> CORE_ENGINES
+    CRON -.->|Autonomous 60s Timers| CORE_ENGINES
+    CORE_ENGINES -->|SQLAlchemy 2.0 ORM Connection Pool| SQL
+    SQL --> T_AUTH
+    SQL --> T_CORE
+    SQL --> T_WORK
+    SQL --> T_SLA
+    SQL --> T_AUDIT
+```
+
 ```
 +---------------------------------------------------------------------------------------------------------+
 |                                    TIER 1: PRESENTATION LAYER (FRONTEND)                                |
@@ -134,41 +200,89 @@ sequenceDiagram
     Tier2->>Tier3: 13. Dynamic Queue Dispatcher auto-assigns next queued ticket
 ```
 
+### 🧠 Intelligent Routing & SLA Decision Logic Flowchart
+
+```mermaid
+flowchart TD
+    START(["📩 Incoming Ticket (Email / Chat / Phone)"]) --> S1["1. Rate Limit & IP Protection Check"]
+    S1 --> S2["2. AI Sentiment Polarity Engine (Score: -1.00 Furious to +1.00 Happy)"]
+    S2 --> S3["3. AI Intent Classifier (Tags: BILLING, TECH_ISSUE, ACCOUNT, etc.)"]
+    S3 --> S4["4. Scikit-Learn Predictive Model (SLA Breach Risk %)"]
+    S4 --> S5["5. Initialize Dual SLA Stopwatches (First-Response & Resolution)"]
+    S5 --> S6{"6. Hard Constraints: On Shift, Language Match, Skill >= 0.60 & Free Capacity?"}
+    
+    S6 -- "ELIGIBLE AGENT FOUND" --> A1["Calculate Composite Routing Score:<br/>Score = 0.4*Skill + 0.3*Load + 0.2*Sentiment + 0.1*Affinity"]
+    A1 --> A2["Atomically Assign to Top-Scoring Specialist"]
+    A2 --> A3["Increment Agent Active Workload (+1)"]
+    A3 --> A4["Write Explainable Decision Audit Trail to Database (Tier 3)"]
+    A4 --> LIVE["Broadcast Telemetry Update to Tier 1 Dashboard"]
+
+    S6 -- "ALL SPECIALISTS FULL / OFF-SHIFT" --> Q1["Transition Ticket to QUEUED Status"]
+    Q1 --> Q2["Safe Hold (Strictly Prevents Agent Burnout & Overcapacity)"]
+    Q2 --> Q3["Queue Dispatcher monitors for next agent ticket resolution"]
+    Q3 --> A1
+```
+
 ---
 
 ## 🛠️ 4. How to Run and Execute the Project
 
 You can execute OmniRoute AI using any of the three methods below:
 
-### 🌟 METHOD A: Running the 3 Tiers on 3 Separate Ports (Recommended for Verification)
+### 🌟 METHOD A: Running the 3 Tiers on 3 Separate Ports (Recommended for Technical Evaluation)
+
+This method demonstrates the clean physical decoupling of the presentation layer, the application/AI layer, and the persistence layer across three dedicated network ports:
+
+```
+[Browser Client] 
+      │ 
+      ▼ (Port 5173)
+┌─────────────────────────────────┐
+│ TIER 1: Vite + React 19 Client  │  http://localhost:5173/
+└─────────────────────────────────┘
+      │
+      ▼ REST API Calls (Proxy to Port 8000)
+┌─────────────────────────────────┐
+│ TIER 2: FastAPI + AI/ML Engine  │  http://localhost:8000/docs
+└─────────────────────────────────┘
+      │
+      ▼ SQLAlchemy Connection (Port 5432)
+┌─────────────────────────────────┐
+│ TIER 3: PostgreSQL / SQLite WAL │  Port 5432 (or ./omnichannel.db)
+└─────────────────────────────────┘
+```
 
 Open three terminal windows on your machine:
 
-#### Terminal 1 — Tier 3: Database (Port 5432)
+#### Terminal 1 — Tier 3: Database Layer (Port 5432)
 If using Docker for PostgreSQL:
 ```bash
 docker run --name omniroute-postgres -p 5432:5432 -e POSTGRES_USER=postgres -e POSTGRES_PASSWORD=postgrespassword -e POSTGRES_DB=omnichannel_db -d postgres:16-alpine
 ```
-*(Or keep using the bundled zero-config SQLite WAL database `omnichannel.db`, which requires no setup).*
+*(Or keep using the bundled zero-config SQLite 3 WAL database `omnichannel.db`, which requires zero setup and is fully loaded with seed agents, skills, and SLA policies).*
 
-#### Terminal 2 — Tier 2: Backend API & AI (Port 8000)
+#### Terminal 2 — Tier 2: Application & AI Layer (Port 8000)
 ```bash
-# Install Python dependencies (first time only)
+# 1. Install Python dependencies (first time only)
 pip install -r requirements.txt
 
-# Start FastAPI application
+# 2. Launch FastAPI Application Server on Port 8000
 python -m uvicorn backend.app.main:app --host 0.0.0.0 --port 8000 --reload
 ```
-- **Backend API Docs**: Open [http://localhost:8000/docs](http://localhost:8000/docs)
+- **Backend API & Health**: [http://localhost:8000/api/v1/health](http://localhost:8000/api/v1/health)
+- **Interactive Swagger Documentation**: [http://localhost:8000/docs](http://localhost:8000/docs)
 
-#### Terminal 3 — Tier 1: Frontend Client (Port 5173)
+#### Terminal 3 — Tier 1: Presentation Layer (Port 5173)
 ```bash
+# 1. Navigate to frontend directory and install dependencies
 cd frontend
 npm install
+
+# 2. Launch Vite Development Server on Port 5173
 npm run dev
 ```
-- **Frontend User Interface**: Open [http://localhost:5173/](http://localhost:5173/) in your browser.  
-- Vite automatically proxies API calls from `http://localhost:5173/api/` $\to$ `http://localhost:8000/api/`.
+- **Live User Interface**: Open [http://localhost:5173/](http://localhost:5173/) in your web browser.  
+- **Reverse Proxy**: Vite automatically proxies all frontend `/api/*` calls directly to `http://localhost:8000/api/*`, injecting JWT Bearer tokens without CORS friction.
 
 ---
 
